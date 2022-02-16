@@ -12,3 +12,7 @@ inventory = {
 @app.get("/get-item/{item_id}")
 def get_item(item_id: int):
     return inventory[item_id]
+
+@app.get("/about")
+def about():
+    return {"Message": "This is an Api"}
