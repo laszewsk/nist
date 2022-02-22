@@ -1,17 +1,17 @@
 !!python/object:make_yaml.yaml_maker
-id: unkown
+id: unknown
 name: Oracle Speech
 title: Oracle Cloud Infrastructure
 author: Oracle
-slug: unkown
+slug: unknown
 public: 'true'
 description: Oracle Cloud Infrastructure Speech is a new AI service that uses Automatic
   Speech Recognition (ASR) to convert speech to text. Built on the same AI models
   used for Oracle Digital Assistant, developers can use Oracle's time-tested acoustic
   and language models to provide highly accurate transcription for audio or video
   files across many languages.
-version: unkown
-license: unkown
+version: unknown
+license: unknown
 microservice: 'no'
 protocol: TBD
 owner: Oracle
@@ -19,14 +19,14 @@ modified: '2022-02-19'
 created: '2022-02-19'
 documentation: https://www.oracle.com/in/artificial-intelligence/speech/
 source: unknown
-specification: unkown
+specification: unknown
 tags:
 - AI
 - Speech
 categories:
 - AI
-additional_metadata: unkown
-endpoint: unkown
+additional_metadata: unknown
+endpoint: unknown
 sla: https://www.oracle.com/cloud/sla/
 authors: The Oracle team can be contacted through a user's individual My Oracle Support
   portal.

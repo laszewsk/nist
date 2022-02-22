@@ -1,9 +1,9 @@
 oracle_data_labeling:
-  id: unkown
+  id: unknown
   name: Oracle Data Labeling
   title: Oracle Cloud Infrastructure
   author: Oracle
-  slug: unkown
+  slug: unknown
   public: 'true'
   description: Oracle Cloud Infrastructure (OCI) Data Labeling is a service for building
     labeled datasets to more accurately train AI and machine learning models. With OCI
@@ -11,8 +11,8 @@ oracle_data_labeling:
     and apply labels to data records through user interfaces and public APIs. The labeled
     datasets can be exported for model development across Oracle's AI and data science
     services for a seamless model-building experience.
-  version: unkown
-  license: unkown
+  version: unknown
+  license: unknown
   microservice: 'no'
   protocol: TBD
   owner: Oracle
@@ -20,7 +20,7 @@ oracle_data_labeling:
   created: '2022-02-19'
   documentation: https://www.oracle.com/in/artificial-intelligence/speech/
   source: unknown
-  specification: unkown
+  specification: unknown
   tags:
   - AI
   - Iamge Classification
@@ -31,8 +31,8 @@ oracle_data_labeling:
   categories:
   - AI
   - Virtual Assistance
-  additional_metadata: unkown
-  endpoint: unkown
+  additional_metadata: unknown
+  endpoint: unknown
   sla: https://www.oracle.com/cloud/sla/
   authors: The Oracle team can be contacted through a user's individual My Oracle Support
     portal.

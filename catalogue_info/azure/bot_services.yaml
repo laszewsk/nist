@@ -1,11 +1,29 @@
 Bot_Services:
-  id: 0
+  id: unknown
   name: Bot_services
-  author: Amaan
-  description: "Develop enterprise-grade conversational AI experiences while maintaining control of your data. Build multilingual and multimodal bots for any scenario from sales to customer support and employee productivity."
+  author: Azure
+  slug: unknown
+  public: 'true'
+  description:
+    Develop enterprise-grade conversational AI experiences while maintaining control of your data.
+    Build multilingual and multimodal bots for any scenario from sales to customer support
+    and employee productivity.
+  version: unknown
+  license: unknown
+  microservice: 'no'
+  protocol: TBD
   owner: Azure
-  modified: 02/22/2022
-  created: 02/22/2022
-  documentation: https://docs.microsoft.com/en-in/composer/introduction?tabs=v2x
-  
-
+  modified: 22-02-2022
+  created: 22-02-2022
+  documentation: https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0
+  specification: unknown
+  tags:
+  - AI
+  - BOT
+  categories:
+  - AI
+  additional_metadata: unknown
+  endpoint: unknown
+  sla: https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/
+  authors: Azure
+  data: tbd
