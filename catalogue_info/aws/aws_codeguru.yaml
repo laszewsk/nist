@@ -1,0 +1,36 @@
+!!python/object:make_yaml.yaml_maker
+id: unkown
+name: Amazon CodeGuru
+title: Automated Code reviews
+author: Amazon
+slug: unkown
+public: 'true'
+description: Amazon CodeGuru is a developer tool that provides intelligent recommendations
+  to improve code quality and identify an application\u2019s most expensive lines
+  of code. Integrate CodeGuru into your existing software development workflow to
+  automate code reviews during application development and continuously monitor
+  application's performance in production and provide recommendations and visual
+  clues on how to improve code quality, application performance, and reduce overall
+  cost.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: Amazon
+modified: '2022-02-22'
+created: '2022-02-22'
+documentation: https://docs.aws.amazon.com/codeguru/?id=docs_gateway
+source: unknown
+specification: unkown
+tags:
+- AI
+- Code Completion
+- Code quality
+categories:
+- AI
+additional_metadata: unkown
+endpoint: unkown
+sla: https://aws.amazon.com/compute/sla/
+authors: The Amazon team can be contacted through Amazon Support Center.
+data: User data is stored on Amazon servers under the associated AWS account and is
+  protected under the AWS shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/
