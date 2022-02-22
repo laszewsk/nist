@@ -17,7 +17,7 @@ owner: Amazon
 modified: '2022-02-22'
 created: '2022-02-22'
 documentation: https://docs.aws.amazon.com/forecast/
-source: unknown
+source: https://aws.amazon.com/forecast/?c=ml&sec=srv
 specification: unkown
 tags:
 - AI

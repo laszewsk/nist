@@ -15,7 +15,7 @@ owner: Amazon
 modified: '2022-02-22'
 created: '2022-02-22'
 documentation: https://docs.aws.amazon.com/lex/index.html
-source: unknown
+source: https://aws.amazon.com/lex/?c=ml&sec=srv
 specification: unkown
 tags:
 - AI

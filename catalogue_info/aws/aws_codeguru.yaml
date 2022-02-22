@@ -20,7 +20,7 @@ owner: Amazon
 modified: '2022-02-22'
 created: '2022-02-22'
 documentation: https://docs.aws.amazon.com/codeguru/?id=docs_gateway
-source: unknown
+source: https://aws.amazon.com/codeguru/?c=ml&sec=srv
 specification: unkown
 tags:
 - AI
