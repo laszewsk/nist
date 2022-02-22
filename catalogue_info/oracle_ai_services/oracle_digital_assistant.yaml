@@ -3,7 +3,7 @@ oracle_digital_assistant:
   name: Oracle Digital Assistant
   title: Oracle Cloud Infrastructure
   author: Oracle
-  slug: unknwon
+  slug: unknown
   public: true
   description: |
     Oracle Digital Assistant is an AI service that offers prebuilt skills and templates to 
