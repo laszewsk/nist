@@ -1,5 +1,4 @@
-project_bonsai:
-  id: unknown
+  id: project_bonsai
   name: Project Bonsai
   author: Azure
   slug: unknown
