@@ -1,5 +1,4 @@
-!!python/object:make_yaml.yaml_maker
-id: unkown
+id: amazon_lex
 name: Amazon Lex
 title: Chatbots
 author: Amazon
