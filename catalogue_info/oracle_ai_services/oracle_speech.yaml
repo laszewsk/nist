@@ -1,5 +1,4 @@
-!!python/object:make_yaml.yaml_maker
-id: unknown
+id: oracle_speech
 name: Oracle Speech
 title: Oracle Cloud Infrastructure
 author: Oracle
