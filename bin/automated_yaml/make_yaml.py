@@ -4,8 +4,9 @@ import os
 
 class yaml_maker(yaml.YAMLObject):
 
-    def __init__(self, name,title, author, description, filename, documentation, tags, categories, id="unknown", slug="unknown", public="true",  version="unknown", license="unknown",
-    microservices="no", protocol="TBD", source="unknown", endpoint="unknown", specification="unknown", owner="Oracle", additional_metadata="unkown", sla="https://www.oracle.com/cloud/sla/", authors= "The Oracle team can be contacted through a user's individual My Oracle Support portal.",
+    def __init__(self, name,title, author, description, filename, documentation, tags, categories, 
+                 id="unknown", slug="unknown", public="true",  version="unknown", license="unknown",
+        microservices="no", protocol="TBD", source="unknown", endpoint="unknown", specification="unknown", owner="Oracle", additional_metadata="unkown", sla="https://www.oracle.com/cloud/sla/", authors= "The Oracle team can be contacted through a user's individual My Oracle Support portal.",
     data="Oracle's policy on data usage and management can be read about on the Online Data Agreement document https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pd"):
         self.id=id
         self.name=name
