@@ -5,12 +5,12 @@ title: Watson Discovery
 author: IBM
 slug: unkown
 public: 'true'
-description: 'Add a cognitive search and content analytics engine to applications
-  to identify patterns, trends and actionable insights that drive better decision-making.
-  Securely unify structured and unstructured data with pre-enriched content, and use
-  a simplified query language to eliminate the need for manual filtering of results.
-
-  '
+description: |
+  Add a cognitive search and content analytics engine to applications
+  to identify patterns, trends and actionable insights that drive
+  better decision-making.  Securely unify structured and unstructured
+  data with pre-enriched content, and use a simplified query language
+  to eliminate the need for manual filtering of results.
 version: unkown
 license: unkown
 microservice: 'no'
@@ -22,12 +22,12 @@ documentation: https://cloud.ibm.com/apidocs/discovery-data
 source: unknown
 specification: unkown
 tags:
-- cloud service
-- ai
-- artificial intelligence
-- software interface
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
 categories:
-- AI/ML
+  - AI/ML
 additional_metadata: unkown
 endpoint: unkown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas

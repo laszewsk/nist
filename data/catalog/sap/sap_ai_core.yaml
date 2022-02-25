@@ -21,12 +21,12 @@ documentation: https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US
 source: unknown
 specification: unknown
 tags:
-- AI
-- pipelines
-- integrate infrastructure
-- multitenant
+  - AI
+  - pipelines
+  - integrate infrastructure
+  - multitenant
 categories:
-- AI
+  - AI
 additional_metadata: unkown
 endpoint: unknown
 sla: https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&search=Service%20Level%20Agreement

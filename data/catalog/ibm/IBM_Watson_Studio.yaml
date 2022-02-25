@@ -5,12 +5,12 @@ title: Watson Studio
 author: IBM
 slug: unkown
 public: 'true'
-description: 'Watson Studio democratizes data science and AI to drive innovation in
-  your business. With a suite of tools for all skill levels, everyone can collaborate
-  to prepare, analyze, and model data. You can write Python or R code in notebooks,
-  visually code on a graphical canvas, or automatically build models.
-
-  '
+description: |
+  Watson Studio democratizes data science and AI to drive innovation
+  in your business. With a suite of tools for all skill levels,
+  everyone can collaborate to prepare, analyze, and model data. You
+  can write Python or R code in notebooks, visually code on a
+  graphical canvas, or automatically build models.
 version: unkown
 license: unkown
 microservice: 'no'
@@ -22,12 +22,12 @@ documentation: https://dataplatform.cloud.ibm.com/docs
 source: unknown
 specification: unkown
 tags:
-- cloud service
-- ai
-- artificial intelligence
-- software interface
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
 categories:
-- AI/ML
+  - AI/ML
 additional_metadata: unkown
 endpoint: unkown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas

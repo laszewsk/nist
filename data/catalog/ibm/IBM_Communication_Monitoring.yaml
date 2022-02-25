@@ -74,12 +74,12 @@ documentation: https://help.cognitiveview.com/hc/en-us/categories/360003768493-C
 source: unknown
 specification: unkown
 tags:
-- cloud service
-- ai
-- artificial intelligence
-- software interface
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
 categories:
-- AI/ML
+  - AI/ML
 additional_metadata: unkown
 endpoint: unkown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas

@@ -22,15 +22,15 @@ documentation: https://www.oracle.com/in/artificial-intelligence/speech/
 source: unknown
 specification: unknown
 tags:
-- AI
-- Iamge Classification
-- Virtual Assistance
-- Irregularity Detection
-- Forms Processing
-- Information Extraction
+  - AI
+  - Iamge Classification
+  - Virtual Assistance
+  - Irregularity Detection
+  - Forms Processing
+  - Information Extraction
 categories:
-- AI
-- Virtual Assistance
+  - AI
+  - Virtual Assistance
 additional_metadata: unknown
 endpoint: unknown
 sla: https://www.oracle.com/cloud/sla/

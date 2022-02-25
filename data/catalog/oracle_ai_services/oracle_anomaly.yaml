@@ -20,12 +20,12 @@ documentation: https://docs.oracle.com/en-us/iaas/Content/anomaly/using/home.htm
 source: unknown
 specification: unknown
 tags:
-- AI
-- Anomaly Detection
-- ML
+  - AI
+  - Anomaly Detection
+  - ML
 categories:
-- AI
-- Anomaly Detection
+  - AI
+  - Anomaly Detection
 additional_metadata: unkown
 endpoint: unknown
 sla: https://www.oracle.com/cloud/sla/

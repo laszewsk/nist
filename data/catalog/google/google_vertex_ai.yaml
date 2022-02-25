@@ -16,12 +16,12 @@ created: 22-03-2022
 documentation: https://cloud.google.com/vertex-ai
 specification: unknown
 tags:
-- AI
-- Services
-- ML models
+  - AI
+  - Services
+  - ML models
 categories:
-- AI
-- Fast Api
+  - AI
+  - Fast Api
 additional_metadata: unknown
 endpoint: unknown
 sla: https://cloud.google.com/vertex-ai/sla

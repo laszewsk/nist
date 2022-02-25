@@ -5,10 +5,9 @@ title: Watson Openscale
 author: IBM
 slug: unkown
 public: 'true'
-description: 'IBM Watson OpenScale tracks and measures outcomes from AI throughout
+description:
+  IBM Watson OpenScale tracks and measures outcomes from AI throughout
   it''s lifecycle, and adapts and governs AI in changing business situations
-
-  '
 version: unkown
 license: unkown
 microservice: 'no'
@@ -20,12 +19,12 @@ documentation: https://cloud.ibm.com/apidocs/ai-openscale
 source: unknown
 specification: unkown
 tags:
-- cloud service
-- ai
-- artificial intelligence
-- software interface
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
 categories:
-- AI/ML
+  - AI/ML
 additional_metadata: unkown
 endpoint: unkown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas

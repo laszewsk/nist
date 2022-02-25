@@ -20,11 +20,11 @@ documentation: https://help.sap.com/viewer/product/AI_LAUNCHPAD/CLOUD/en-US
 source: unknown
 specification: unknown
 tags:
-- AI
-- AI use cases
-- lifecycle management
+  - AI
+  - AI use cases
+  - lifecycle management
 categories:
-- AI
+  - AI
 additional_metadata: unkown
 endpoint: unknown
 sla: https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&search=Service%20Level%20Agreement

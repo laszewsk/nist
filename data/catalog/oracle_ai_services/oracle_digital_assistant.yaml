@@ -21,9 +21,18 @@ created: 02/17/2022
 documentation: https://docs.oracle.com/en/cloud/paas/digital-assistant/
 source: unknown
 specification: unknown
-tags: ["AI", "text service", "chat service", "voice service", "chatbot",
-      "deep learning", "natural language processing", "artificial intelligence", "app dev"]
-categories: ["AI"]
+tags:
+  - "AI"
+  - "text service"
+  - "chat service"
+  - "voice service"
+  - "chatbot"
+  - "deep learning"
+  - "natural language processing"
+  - "artificial intelligence"
+  - "app dev"
+categories:
+  - "AI"
 additional_metadata: unknown
 endpoint: unknown
 sla: https://www.oracle.com/cloud/sla/

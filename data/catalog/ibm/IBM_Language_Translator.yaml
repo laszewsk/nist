@@ -5,14 +5,13 @@ title: Language Translator
 author: IBM
 slug: unkown
 public: 'true'
-description: 'Neural Machine Translation comes standard for each language pair. Corpus
-  customization allows you to create your own translation models which account for
-  regional or industry-specific terms.
-
-  Instantly translate your content into multiple languages. From translating documents,
-  apps, and websites to creating multilingual chatbots, what will you build?
-
-  '
+description: |
+  Neural Machine Translation comes standard for each language
+  pair. Corpus customization allows you to create your own translation
+  models which account for regional or industry-specific terms.
+  Instantly translate your content into multiple languages. From
+  translating documents, apps, and websites to creating multilingual
+  chatbots, what will you build?
 version: unkown
 license: unkown
 microservice: 'no'
@@ -24,12 +23,12 @@ documentation: https://cloud.ibm.com/apidocs/language-translator
 source: unknown
 specification: unkown
 tags:
-- cloud service
-- ai
-- artificial intelligence
-- software interface
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
 categories:
-- AI/ML
+  - AI/ML
 additional_metadata: unkown
 endpoint: unkown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas

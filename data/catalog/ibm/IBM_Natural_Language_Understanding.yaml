@@ -5,13 +5,13 @@ title: Natural Language Understanding
 author: IBM
 slug: unkown
 public: 'true'
-description: 'Use advanced NLP to analyze text and extract meta-data from content
-  such as concepts, entities, keywords, categories, sentiment, emotion, relations,
-  and semantic roles. Apply custom annotation models developed using Watson Knowledge
-  Studio to identify industry/domain specific entities and relations in unstructured
-  text with Watson NLU.
-
-  '
+description: |
+  Use advanced NLP to analyze text and extract meta-data from content
+  such as concepts, entities, keywords, categories, sentiment,
+  emotion, relations, and semantic roles. Apply custom annotation
+  models developed using Watson Knowledge Studio to identify
+  industry/domain specific entities and relations in unstructured text
+  with Watson NLU.
 version: unkown
 license: unkown
 microservice: 'no'
@@ -23,12 +23,12 @@ documentation: https://cloud.ibm.com/apidocs/natural-language-understanding
 source: unknown
 specification: unkown
 tags:
-- cloud service
-- ai
-- artificial intelligence
-- software interface
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
 categories:
-- AI/ML
+  - AI/ML
 additional_metadata: unkown
 endpoint: unkown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas

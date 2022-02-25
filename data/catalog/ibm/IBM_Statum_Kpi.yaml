@@ -5,12 +5,15 @@ title: Statum Kpi
 author: IBM
 slug: unkown
 public: 'true'
-description: 'Amberoon Statum KPI is a performance management solution that helps
-  banks directly measure and manage their performance against peer banks. Unlike traditional
-  operational analytics systems, Statum provides sharp insights into the future through
-  rigorous analysis of performance patterns across multiple financial services institutions.
-  Statum KPI leverages advances in AI, data engineering and security to create a system
-  of insight to support key operational decisions.
+description: |
+  Amberoon Statum KPI is a performance management solution that helps
+  banks directly measure and manage their performance against peer
+  banks. Unlike traditional operational analytics systems, Statum
+  provides sharp insights into the future through rigorous analysis of
+  performance patterns across multiple financial services
+  institutions.  Statum KPI leverages advances in AI, data engineering
+  and security to create a system of insight to support key
+  operational decisions.
 
   Support Information:
 
@@ -22,8 +25,6 @@ description: 'Amberoon Statum KPI is a performance management solution that help
   Support Locations: US & India
 
   Service Status Page: https://ibmbroker.amberoon.com/statumservicestatus
-
-  '
 version: unkown
 license: unkown
 microservice: 'no'
@@ -35,13 +36,13 @@ documentation: https://www.amberoon.com/amberoon-statum
 source: unknown
 specification: unkown
 tags:
-- cloud service
-- ai
-- artificial intelligence
-- software interface
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
 categories:
-- AI/ML
-additional_metadata: unkown
+  - AI/ML
+  additional_metadata: unkown
 endpoint: unkown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
 authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'

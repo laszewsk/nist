@@ -22,10 +22,10 @@ documentation: https://help.sap.com/viewer/product/DOCUMENT_CLASSIFICATION/SHIP/
 source: unknown
 specification: unknown
 tags:
-- AI
-- document classification
+  - AI
+  - document classification
 categories:
-- AI
+  - AI
 additional_metadata: unkown
 endpoint: unknown
 sla: https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&search=Service%20Level%20Agreement

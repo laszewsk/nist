@@ -20,11 +20,11 @@ documentation: https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/
 source: unknown
 specification: unknown
 tags:
-- AI
-- chatbot
-- NLP
+  - AI
+  - chatbot
+  - NLP
 categories:
-- AI
+  - AI
 additional_metadata: unkown
 endpoint: unknown
 sla: https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&search=Service%20Level%20Agreement

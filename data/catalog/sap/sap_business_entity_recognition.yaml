@@ -21,10 +21,10 @@ documentation: https://help.sap.com/viewer/product/Business_Entity_Recognition/S
 source: unknown
 specification: unknown
 tags:
-- AI
-- text extraction
+  - AI
+  - text extraction
 categories:
-- AI
+  - AI
 additional_metadata: unkown
 endpoint: unknown
 sla: https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&search=Service%20Level%20Agreement
