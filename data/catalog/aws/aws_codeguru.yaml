@@ -5,13 +5,15 @@ title: Automated Code reviews
 author: Amazon
 slug: unkown
 public: 'true'
-description: Amazon CodeGuru is a developer tool that provides intelligent recommendations
-  to improve code quality and identify an application\u2019s most expensive lines
-  of code. Integrate CodeGuru into your existing software development workflow to
-  automate code reviews during application development and continuously monitor
-  application's performance in production and provide recommendations and visual
-  clues on how to improve code quality, application performance, and reduce overall
-  cost.
+description: |
+  Amazon CodeGuru is a developer tool that provides intelligent
+  recommendations to improve code quality and identify an
+  application\u2019s most expensive lines of code. Integrate CodeGuru
+  into your existing software development workflow to automate code
+  reviews during application development and continuously monitor
+  application's performance in production and provide recommendations
+  and visual clues on how to improve code quality, application
+  performance, and reduce overall cost.
 version: unkown
 license: unkown
 microservice: 'no'

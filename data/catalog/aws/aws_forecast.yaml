@@ -5,10 +5,12 @@ title: Demand Forecasting
 author: Amazon
 slug: unkown
 public: 'true'
-description: Amazon Forecast is a fully managed deep learning service for time-series
-  forecasting. By providing Amazon Forecast with historical time-series data, you
-  can predict future points in the series. Time-series forecasting is useful in multiple
-  domains, including retail, financial planning, supply chain, and healthcare.
+description: |
+  Amazon Forecast is a fully managed deep learning service for
+  time-series forecasting. By providing Amazon Forecast with
+  historical time-series data, you can predict future points in the
+  series. Time-series forecasting is useful in multiple domains,
+  including retail, financial planning, supply chain, and healthcare.
 version: unkown
 license: unkown
 microservice: 'no'

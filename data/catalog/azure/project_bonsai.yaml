@@ -4,11 +4,10 @@
   author: Azure
   slug: unknown
   public: 'true'
-  description:
+  description: |
     Low-code AI development platform for intelligent control systems
-    
-    Speed the creation of AI-powered automation to improve production efficiency 
-    and reduce downtime—without requiring data science.
+    Speed the creation of AI-powered automation to improve production
+    efficiency and reduce downtime—without requiring data science.
   version: unknown
   license: unknown
   microservice: 'no'

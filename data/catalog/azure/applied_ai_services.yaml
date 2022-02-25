@@ -4,8 +4,9 @@ name: Applied AI Services
 author: Azure
 slug: unknown
 public: 'true'
-description:
-  A family of AI services that accelerate development of solutions for common business processes.
+description: |
+  A family of AI services that accelerate development of solutions for
+  common business processes.
 version: unknown
 license: unknown
 microservice: 'no'

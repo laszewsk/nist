@@ -5,8 +5,9 @@ title: Chatbots
 author: Amazon
 slug: unkown
 public: 'true'
-description: Amazon Lex is an AWS service for building conversational interfaces into
-  applications using voice and text.
+description: |
+  Amazon Lex is an AWS service for building conversational interfaces
+  into applications using voice and text.
 version: unkown
 license: unkown
 microservice: 'no'
