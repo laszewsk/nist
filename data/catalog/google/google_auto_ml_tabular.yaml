@@ -4,10 +4,12 @@ name: AutoML Tabular
 author: Google
 slug: unknown
 public: 'true'
-description:
-    AutoML uses machine learning to analyze the content of tabular data.
-     You can use AutoML to train an ML model to use regression to find a numeric value, or use classification to predict a categorical outcome from your tabular data.
-    version: unknown
+description: |
+  AutoML uses machine learning to analyze the content of tabular data.
+  You can use AutoML to train an ML model to use regression to find a
+  numeric value, or use classification to predict a categorical
+  outcome from your tabular data.
+version: unknown
 license: unknown
 microservice: 'no'
 protocol: TBD
@@ -17,11 +19,11 @@ created: 22-03-2022
 documentation: https://cloud.google.com/vertex-ai
 specification: unknown
 tags:
-- AI
-- Services
-- ML models
+  - AI
+  - Services
+  - ML models
 categories:
-- AI
+  - AI
 additional_metadata: unknown
 endpoint: unknown
 sla: https://cloud.google.com/vision/sla
