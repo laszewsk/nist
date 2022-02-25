@@ -5,7 +5,7 @@ title: Watson Openscale
 author: IBM
 slug: unkown
 public: 'true'
-description:
+description: |
   IBM Watson OpenScale tracks and measures outcomes from AI throughout
   it''s lifecycle, and adapts and governs AI in changing business situations
 version: unkown
