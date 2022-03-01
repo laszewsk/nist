@@ -7,6 +7,7 @@
 * Google - Myles 
 * Oracle - Yash
 * IBM - Ishan
+* Alibaba - Shamsheer
 * Digital Ocean
 * Sales Force
 
