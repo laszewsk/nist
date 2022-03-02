@@ -21,11 +21,11 @@ created: 22-02-2022
 documentation: https://docs.microsoft.com/en-us/azure/genomics/
 specification: unknown
 tags:
-- AI
-- Analysis
-- Cloud
+  - AI
+  - Analysis
+  - Cloud
 categories:
-- AI
+  - AI
 additional_metadata: unknown
 endpoint: unknown
 sla: https://azure.microsoft.com/en-in/support/legal/sla/genomics/v1_0/

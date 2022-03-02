@@ -23,11 +23,11 @@ created: 22-02-2022
 documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
 specification: unknown
 tags:
-- AI
-- Cognition
-- Service
+  - AI
+  - Cognition
+  - Service
 categories:
-- AI
+  - AI
 additional_metadata: unknown
 endpoint: unknown
 sla: https://www.azure.cn/en-us/support/sla/cognitive-services/
