@@ -34,15 +34,6 @@ class AiServicesSpider(scrapy.Spider):
             for id in id_list_final:
                 if doc.endswith(id) or doc.endswith(id+'/'):
                     doc_list_final.append(doc)
-                    
-
-        print(name_list)
-        print(id_list_final)
-        print()
-        print(doc_list)
-        print()
-        print(doc_list_final)
-        print('ids: {}\ndoc: {}\ndocumentation: {}'.format(len(id_list_final), len(doc_list), len(doc_list_final)))
 
         final_data['name'] = name_list
         final_data['title'] = title_list
@@ -50,7 +41,3 @@ class AiServicesSpider(scrapy.Spider):
 
         df = pd.DataFrame(final_data)
         df.to_csv('services.csv', index=False)
-
-
-'http://aws.amazon.com/codeguru'
-'http://aws.amazon.com/codeguru'
