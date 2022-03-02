@@ -1,4 +1,4 @@
-
+---
 id: unkown
 name: Amazon Lookout for Vision
 title: Amazon Lookout for Vision
@@ -18,10 +18,10 @@ documentation: https://aws.amazon.com/lookout-for-vision
 source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
 specification: unkown
 tags:
-- AI
-- Machine Learning
+  - AI
+  - Machine Learning
 categories:
-- AI
+  - AI
 additional_metadata: unkown
 endpoint: unkown
 sla: https://aws.amazon.com/compute/sla/

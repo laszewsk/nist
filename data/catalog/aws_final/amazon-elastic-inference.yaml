@@ -1,4 +1,4 @@
-
+---
 id: unkown
 name: Amazon Elastic Inference
 title: Amazon Elastic Inference
@@ -19,10 +19,10 @@ documentation: https://aws.amazon.com/machine-learning/elastic-inference/
 source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
 specification: unkown
 tags:
-- AI
-- Machine Learning
+  - AI
+  - Machine Learning
 categories:
-- AI
+  - AI
 additional_metadata: unkown
 endpoint: unkown
 sla: https://aws.amazon.com/compute/sla/
