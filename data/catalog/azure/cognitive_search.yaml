@@ -27,11 +27,11 @@ created: 22-02-2022
 documentation: https://docs.microsoft.com/en-us/azure/search/
 specification: unknown
 tags:
-- AI
-- Cognition
-- Search
+  - AI
+  - Cognition
+  - Search
 categories:
-- AI
+  - AI
 additional_metadata: unknown
 endpoint: unknown
 sla: https://www.azure.cn/en-us/support/sla/search/v1_0/
