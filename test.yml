@@ -1,0 +1,609 @@
+a: value  of a
+b: value  of b
+c: value  of c
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/azure_language:
+  yaml:
+    azure_language:
+      id: unknown
+      name: Azure Cognitive Service for Language
+      title: Azure Cognitive Service for Language
+      author: Microsoft
+      slug: azure-language
+      public: true
+      description: 'Azure Cognitive Service for Language is Microsoft''s solution
+        for cloud-based NLP.
+
+        It requires an Azure account. Notable features include a variety of pre-configured,
+
+        non-customizable models for different functions as well as the addition of
+        some customizable
+
+        options which allow the input of one''s own custom-trained model.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: Microsoft
+      modified: 11/18/2021
+      created: unknown
+      documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/
+      source: unknown
+      specification: unknown
+      tags:
+      - nlp
+      - nlp service
+      - machine learning
+      - cloud service
+      - nlp api
+      - deep learning
+      - natural language processing
+      - artificial intelligence
+      categories:
+      - NLP
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://www.azure.cn/en-us/support/sla/cognitive-services/
+      authors: The Azure team can be contacted through support request within the
+        user's Azure portal
+      data: 'User data is stored on Azure servers under the associated Azure account
+        and is protected under
+
+        the Trusted Cloud model as detailed here https://azure.microsoft.com/en-us/overview/trusted-cloud/privacy/'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/oracle_cloud_language:
+  yaml:
+    oracle_cloud_language:
+      id: unknown
+      name: Oracle Cloud Language
+      title: Oracle Cloud Language
+      author: Oracle
+      slug: oracle-cloud-language
+      public: true
+      description: 'Oracle Cloud Language is Oracle''s solution to cloud-based NLP.
+
+        It is nested under the larger Oracle Cloud service. Unlike some other
+
+        similar cloud NLP services, Oracle Cloud Language only supports English
+
+        outside of its language detection function. Otherwise, it contains the common
+
+        functions of classification, keyphrase extraction, entity recognition, and
+        sentiment analysis.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: Oracle
+      modified: 12/15/2021
+      created: 05/06/2021
+      documentation: https://docs.oracle.com/en-us/iaas/language/using/overview.htm
+      source: unknown
+      specification: unknown
+      tags:
+      - nlp
+      - nlp service
+      - machine learning
+      - cloud service
+      - nlp api
+      - deep learning
+      - natural language processing
+      - artificial intelligence
+      categories:
+      - NLP
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://www.oracle.com/cloud/sla/
+      authors: The Oracle team can be contacted through a user's individual My Oracle
+        Support portal.
+      data: 'Oracle''s policy on data usage and management can be read about on the
+        Online Data Agreement document
+
+        https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/amazon_comprehend:
+  yaml:
+    amazon_comprehend:
+      id: unknown
+      name: Amazon Comprehend
+      title: Amazon Comprehend
+      author: Amazon
+      slug: amazon-comprehend
+      public: true
+      description: 'Comprehend is Amazon''s solution for cloud-based NLP. It is available
+        with an AWS account. To use,
+
+        it requires use of either the AWS Command Line Interface or an AWS SDK for
+        Python, Java, or .NET.
+
+        Notable features include functionality for giving batches of documents to
+        be processed as well as
+
+        submission of multiple jobs in a list. The DetectEntities function also allows
+        use of a custom-trained
+
+        model, but many other functions do not.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: AWS API
+      owner: Amazon Web Services
+      modified: 9/29/2021
+      created: 11/29/2017
+      documentation: https://docs.aws.amazon.com/comprehend/index.html
+      source: unknown
+      specification: unknown
+      tags:
+      - nlp
+      - nlp service
+      - machine learning
+      - cloud service
+      - nlp api
+      - deep learning
+      - natural language processing
+      - artificial intelligence
+      categories:
+      - NLP
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://aws.amazon.com/machine-learning/language/sla/
+      authors: The AWS team can be contacted through support ticket at https://aws.amazon.com/contact-us/
+      data: 'User data is stored on Amazon servers under the associated AWS account
+        and is protected under the AWS
+
+        shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/ibm_natural_language:
+  yaml:
+    ibm_natural_language:
+      id: unknown
+      name: IBM Watson Natural Language Understanding
+      title: IBM Watson Natural Language Understanding
+      author: IBM
+      slug: ibm-watson-natural-language
+      public: true
+      description: 'Watson Natural Language Understanding is IBM''s solution to cloud-based
+        NLP.
+
+        It requires an IBM Cloud account. Notable features include the ability to
+        use
+
+        custom-trained models for each of its functions as well as access to related
+
+        NLP services in the IBM Cloud platform such as Watson Knowledge Studio and
+
+        Watson Discovery, which provide NLP functions and customized model training
+
+        that tends to be more specific to businesses.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: IBM
+      modified: 12/07/2021
+      created: unknown
+      documentation: https://cloud.ibm.com/apidocs/natural-language-understanding
+      source: unknown
+      specification: unknown
+      tags:
+      - nlp
+      - nlp service
+      - machine learning
+      - cloud service
+      - nlp api
+      - deep learning
+      - natural language processing
+      - artificial intelligence
+      categories:
+      - NLP
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://www-40.ibm.com/software/sla/sladb.nsf/8bd55c6b9fa8039c86256c6800578854/604c5fb91b10c661862583c9004c099b/$FILE/i128-0025-09_03-2019_en_US.pdf
+      authors: The IBM team can be contacted through https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen
+      data: 'The IBM Watson data usage and privacy policy is described here:
+
+        https://www.ibm.com/watson/data-privacy/'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/wipro_holmes:
+  yaml:
+    wipro_holmes:
+      id: unknown
+      name: Wipro Holmes
+      title: Wipro Holmes
+      author: Wipro
+      slug: wipro-holmes
+      public: false
+      description: 'Wipro Holmes is a private consultation-based cloud service solution
+        for a wide variety of AI problems
+
+        and use cases. There is no clear documentation available, and instead of the
+        features being openly
+
+        published on the website, they require private contact.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: unknown
+      owner: Wipro
+      modified: 12/15/2021
+      created: 12/15/2021
+      documentation: unknown
+      source: unknown
+      specification: unknown
+      tags:
+      - artificial intelligence
+      - business solutions
+      - machine learning
+      - cloud service
+      - deep learning
+      - ai
+      - consultation based
+      categories:
+      - Business
+      - General Services
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: unknown
+      authors: The Wipro team can be contacted through contact ticket at https://www.wipro.com/analytics/
+      data: 'Wipro''s privacy statement can be read about at
+
+        https://www.wipro.com/privacy-statement/'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/google_natural_language:
+  yaml:
+    google_natural_language:
+      id: unknown
+      name: Google Natural Language API
+      title: Google Natural Language API
+      author: Google
+      slug: google-natural-language
+      public: true
+      description: 'Google Natural Language API is Google''s solution for cloud-based
+        NLP. It requires a Google Cloud account.
+
+        The Natural Language API includes only the pre-configured models for common
+        NLP functions, though Google
+
+        also offers services specific to healthcare NLP as well as a code-free ML
+        model manager called AutoML as
+
+        part of Google Cloud.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: Google
+      modified: 12/07/2021
+      created: unknown
+      documentation: https://cloud.google.com/natural-language/docs/reference/rest
+      source: unknown
+      specification: unknown
+      tags:
+      - nlp
+      - nlp service
+      - machine learning
+      - cloud service
+      - nlp api
+      - deep learning
+      - natural language processing
+      - artificial intelligence
+      categories:
+      - NLP
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://cloud.google.com/natural-language/sla
+      authors: The Google Cloud team can be contacted through https://cloud.google.com/contact
+      data: 'The Google Cloud Natural Language policy on data usage is described here:
+
+        https://cloud.google.com/natural-language/docs/data_usage'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/einstein_language:
+  yaml:
+    einstein_language:
+      id: unknown
+      name: Salesforce Einstein Language
+      title: Salesforce Einstein Language
+      author: Salesforce
+      slug: salesforce-einstein-language
+      public: true
+      description: 'Einstein Language is Salesforce''s solution to cloud-based NLP.
+        It requires a Salesforce/Einstein account.
+
+        It is under the umbrella of Einstein AI, which also includes Einstein Vision
+        for image processing purposes.
+
+        At the moment, Einstein Language only includes two main features, Intent and
+        Sentiment.
+
+        Intent analyzes meaning in text for the specific purpose of deciding market
+        intent in customers.
+
+        Sentiment is comparable to the classic sentiment detection provided by other
+        NLP services.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: Salesforce
+      modified: 12/07/2021
+      created: unknown
+      documentation: https://metamind.readme.io/reference
+      source: unknown
+      specification: unknown
+      tags:
+      - nlp
+      - nlp service
+      - machine learning
+      - cloud service
+      - nlp api
+      - deep learning
+      - natural language processing
+      - artificial intelligence
+      categories:
+      - NLP
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: unknown
+      authors: The Salesforce Einstein team may be contacted through https://metamind.readme.io/docs/getting-help
+      data: 'Information on how Einstein handles user data may be found through
+
+        https://help.salesforce.com/s/articleView?id=sf.aac_manage_data_policies.htm&type=5'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/sap_ai:
+  yaml:
+    sap_ai:
+      id: unknown
+      name: SAP AI
+      title: SAP AI
+      author: SAP
+      slug: sap-ai
+      public: true
+      description: 'SAP AI is a cloud service solution for a wide variety of AI problems
+        and use cases,
+
+        mostly geared to providing solutions to common AI problems businesses face
+        in major industries.
+
+        SAP AI specializes in providing a UI hub for businesses to manage the integration
+        of data and AI
+
+        into their businesses, and is meant to be specialized for each business through
+        consultation.
+
+        '
+      version: 2.12.0
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: SAP
+      modified: 12/15/2021
+      created: 12/15/2021
+      documentation: https://help.sap.com/viewer/product/AI_CORE/CLOUD/en-US
+      source: unknown
+      specification: unknown
+      tags:
+      - artificial intelligence
+      - business solutions
+      - machine learning
+      - cloud service
+      - deep learning
+      - ai
+      - software interface
+      categories:
+      - Business
+      - General Services
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://assets.cdn.sap.com/agreements/product-use-and-support-terms/cls/en/service-level-agreement-for-sap-cloud-services-english-v4-2019.pdf
+      authors: The SAP team can be contacted through email at admin.apibusinesshub@sap.com
+      data: 'The SAP privacy statement can be found at
+
+        https://help.sap.com/viewer/privacy'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/baidu_ai_cloud:
+  yaml:
+    baidu_ai_cloud:
+      id: unknown
+      name: Baidu AI Cloud
+      title: Baidu AI Cloud
+      author: Baidu
+      slug: baidu-ai-cloud
+      public: true
+      description: 'Baidu is a China-based company available mainly to Chinese customers.
+
+        Baidu AI Cloud includes a diverse range of cloud computing solutions to problems
+
+        over topics including data management, remote computing, video services, security,
+        and others.
+
+        Through specifically machine learning, Baidu offers services in computer vision,
+        Auto ML/DL,
+
+        visual modeling, and project management. Notably missing is a dedicated section
+        for language processing.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: Baidu
+      modified: 12/15/2021
+      created: 09/20/2017
+      documentation: https://intl.cloud.baidu.com/doc/index.html
+      source: unknown
+      specification: unknown
+      tags:
+      - artificial intelligence
+      - business solutions
+      - machine learning
+      - cloud service
+      - deep learning
+      - ai
+      categories:
+      - Business
+      - Data Management
+      - General Services
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://intl.cloud.baidu.com/doc/DCC/s/Ejwvxmvl0-en
+      authors: The Baidu team can be contacted through support ticket within a user's
+        account.
+      data: 'Baidu''s policy on data usage and management can be read about through
+
+        https://intl.cloud.baidu.com/doc/Agreements/s/ek77inppz-en'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/h2o_ai:
+  yaml:
+    h2o_ai:
+      id: unknown
+      name: H2O.ai
+      title: H2O.ai
+      author: H2O.ai
+      slug: h2o-ai
+      public: true
+      description: 'H2O.ai is an open-source web service solution for a wide variety
+        of AI solutions and use cases,
+
+        mostly geared to providing solutions to common AI problems businesses face
+        in major industries.
+
+        Additional products include H2O Wave, a Python framework for AI-based app
+        development,
+
+        and H2O AutoML, which automates away aspects of machine learning implementation
+        such
+
+        as parameter tuning and model generation.
+
+        '
+      version: unknown
+      license: Apache License 2.0
+      microservice: false
+      protocol: REST
+      owner: H2O
+      modified: 12/15/2021
+      created: 03/06/2015
+      documentation: https://docs.h2o.ai/
+      source: https://github.com/h2oai
+      specification: unknown
+      tags:
+      - artificial intelligence
+      - business solutions
+      - app development
+      - machine learning
+      - cloud service
+      - Python framework
+      - deep learning
+      - ai
+      - open source
+      categories:
+      - Business
+      - General Services
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: https://www.h2o.ai/enterprise-support/
+      authors: The H2O team can be contacted through support ticket at https://www.h2o.ai/company/contact-us/
+      data: H2O discusses their data usage policies in their terms of service at https://www.h2o.ai/privacy/
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/data_robot:
+  yaml:
+    data_robot:
+      id: unknown
+      name: DataRobot
+      title: DataRobot
+      author: DataRobot
+      slug: data-robot
+      public: true
+      description: 'DataRobot is a cloud service solution for a wide variety of AI
+        problems and use cases,
+
+        mostly geared to providing solutions to common AI problems businesses face
+        in major industries.
+
+        Also offered is a web-based UI hub for data scientists to manage different
+        projects and available
+
+        algorithms and templates during the development process.
+
+        '
+      version: 7.2
+      license: unknown
+      microservice: false
+      protocol: REST
+      owner: DataRobot
+      modified: 12/15/2021
+      created: 12/15/2021
+      documentation: https://docs.datarobot.com/
+      source: unknown
+      specification: unknown
+      tags:
+      - artificial intelligence
+      - business solutions
+      - machine learning
+      - cloud service
+      - deep learning
+      - ai
+      - web interface
+      categories:
+      - Business
+      - Data Management
+      - General Services
+      additional_metadata: unknown
+      endpoint: REST, DataRobot web interface, or Python or R environment
+      sla: https://www.datarobot.com/terms-of-service/
+      authors: The DataRobot team can be contacted through general inquiry at https://www.datarobot.com/contact-us/
+      data: 'DataRobots''s policy on data usage and management can be read about at
+
+        https://www.datarobot.com/privacy/'
+/home/green/Desktop/cm/cloudmesh-catalog/data/catalog/edgeverve_xtractedge:
+  yaml:
+    edgeverve_xtractedge:
+      id: unknown
+      name: Edgeverve Xtractedge
+      title: Edgeverve Xtractedge
+      author: Edgeverve
+      slug: edgeverve-xtractedge
+      public: false
+      description: 'Edgeverve Xtractedge, also known as Infosys Nia, is a private
+        consultation-based cloud service solution
+
+        meant primarily for extracting information from documents. There is no clear
+        documentation available,
+
+        and instead of the features being openly published on the website, they require
+        private contact to explore further.
+
+        '
+      version: unknown
+      license: unknown
+      microservice: false
+      protocol: unknown
+      owner: Edgeverve
+      modified: 12/15/2021
+      created: 12/15/2021
+      documentation: unknown
+      source: unknown
+      specification: unknown
+      tags:
+      - artificial intelligence
+      - business solutions
+      - machine learning
+      - cloud service
+      - deep learning
+      - ai
+      - consultation based
+      - nlp
+      categories:
+      - Business
+      - NLP
+      additional_metadata: unknown
+      endpoint: unknown
+      sla: unknown
+      authors: The Edgeverve team can be contacted through contact ticket at https://www.edgeverve.com/contact/
+      data: 'Edgeverve''s privacy statement can be read about at
+
+        https://www.edgeverve.com/privacy-statement/'
