@@ -4,7 +4,7 @@ name: Amazon Personalize
 title: Amazon Personalize
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Personalize is a machine learning service that makes it easy for
   developers to create individualized recommendations for customers using their applications.
 version: unkown

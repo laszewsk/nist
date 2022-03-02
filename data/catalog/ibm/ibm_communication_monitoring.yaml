@@ -4,7 +4,7 @@ name: Communication Monitoring
 title: Communication Monitoring
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
 
   Cognitive View monitors communication channels to automate quality

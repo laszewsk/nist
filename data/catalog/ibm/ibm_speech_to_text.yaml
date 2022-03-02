@@ -4,7 +4,7 @@ name: Speech To Text
 title: Speech To Text
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   The Speech to Text service converts the human voice into the written
   word. The service uses deep-learning AI to apply knowledge of

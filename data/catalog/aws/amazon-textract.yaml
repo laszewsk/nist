@@ -4,7 +4,7 @@ name: Amazon Textract
 title: Amazon Textract
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Textract is a service that automatically extracts text and data
   from scanned documents. Amazon Textract goes beyond simple optical character recognition
   (OCR) to also identify the contents of fields in forms and information stored in

@@ -4,7 +4,7 @@ name: Amazon Comprehend
 title: Amazon Comprehend
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Comprehend is a natural language processing (NLP) service that
   uses machine learning to find insights and relationships in text. No machine learning
   experience required.

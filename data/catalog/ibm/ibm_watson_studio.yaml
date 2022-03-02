@@ -4,7 +4,7 @@ name: Watson Studio
 title: Watson Studio
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Watson Studio democratizes data science and AI to drive innovation
   in your business. With a suite of tools for all skill levels,

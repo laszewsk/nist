@@ -4,7 +4,7 @@ name: Amazon Kendra
 title: Amazon Kendra
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: "Amazon Kendra is an intelligent search service powered by machine learning.\
   \ Kendra reimagines enterprise search for your websites and applications so your\
   \ employees and customers can easily find the content they are looking for, even\

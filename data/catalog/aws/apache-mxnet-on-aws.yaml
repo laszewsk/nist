@@ -4,7 +4,7 @@ name: Apache MXNet on AWS
 title: Apache MXNet on AWS
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Apache MXNet on AWS is a fast and scalable training and inference framework
   with an easy-to-use, concise API for machine learning.
 version: unkown

@@ -4,7 +4,7 @@ name: Oracle Speech
 title: Oracle Cloud Infrastructure
 author: Oracle
 slug: unknown
-public: 'true'
+public: true
 description:
   Oracle Cloud Infrastructure Speech is a new AI service that uses
   Automatic Speech Recognition (ASR) to convert speech to text. Built

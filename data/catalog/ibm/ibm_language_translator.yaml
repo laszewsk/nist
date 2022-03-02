@@ -4,7 +4,7 @@ name: Language Translator
 title: Language Translator
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Neural Machine Translation comes standard for each language
   pair. Corpus customization allows you to create your own translation

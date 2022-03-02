@@ -4,7 +4,7 @@ name: SAP AI Core
 title: SAP Business Technology Platform
 author: SAP
 slug: unknown
-public: 'true'
+public: true
 description: |
   SAP AI Core is a service in the SAP Business Technology Platform
   which is designed to handle the execution and operations of your AI

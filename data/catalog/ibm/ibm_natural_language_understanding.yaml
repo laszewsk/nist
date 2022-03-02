@@ -4,7 +4,7 @@ name: Natural Language Understanding
 title: Natural Language Understanding
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Use advanced NLP to analyze text and extract meta-data from content
   such as concepts, entities, keywords, categories, sentiment,

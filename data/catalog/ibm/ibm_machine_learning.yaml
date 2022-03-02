@@ -4,7 +4,7 @@ name: Machine Learning
 title: Machine Learning
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description:
   IBM Watson Machine Learning is a full-service IBM Cloud offering
   that makes it easy for developers and data scientists to work

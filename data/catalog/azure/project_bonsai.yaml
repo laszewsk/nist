@@ -3,7 +3,7 @@ id: project_bonsai
 name: Project Bonsai
 author: Azure
 slug: unknown
-public: 'true'
+public: true
 description: |
   Low-code AI development platform for intelligent control systems
   Speed the creation of AI-powered automation to improve production

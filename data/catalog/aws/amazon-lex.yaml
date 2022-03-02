@@ -4,7 +4,7 @@ name: Amazon Lex
 title: Amazon Lex
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Lex is a service for building conversational interfaces into any
   application using voice and text. Lex provides the advanced deep learning functionalities
   of automatic speech recognition (ASR) for converting speech to text, and natural

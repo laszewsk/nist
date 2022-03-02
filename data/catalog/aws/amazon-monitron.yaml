@@ -4,7 +4,7 @@ name: Amazon Monitron
 title: Amazon Monitron
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Monitron is an end-to-end system that uses machine learning (ML)
   to detect abnormal behavior in industrial machinery, enabling you to implement predictive
   maintenance and reduce unplanned downtime.

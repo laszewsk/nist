@@ -4,7 +4,7 @@ name: Amazon Augmented AI
 title: Amazon Augmented AI
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Augmented AI (Amazon A2I) is a machine learning service which
   makes it easy to build the workflows required for human review.
 version: unkown

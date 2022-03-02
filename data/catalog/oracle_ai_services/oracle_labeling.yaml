@@ -4,7 +4,7 @@ name: Oracle Data Labeling
 title: Oracle Cloud Infrastructure
 author: Oracle
 slug: unknown
-public: 'true'
+public: true
 description: |
   Oracle Cloud Infrastructure (OCI) Data Labeling is a service for
   building labeled datasets to more accurately train AI and machine

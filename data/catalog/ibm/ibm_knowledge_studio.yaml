@@ -4,7 +4,7 @@ name: Knowledge Studio
 title: Knowledge Studio
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Teach Watson the language of your domain with custom machine
   learning models that identify entities and relationships unique to

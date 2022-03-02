@@ -4,7 +4,7 @@ name: SAP Business Entity Recognition
 title: SAP Business Technology Platform
 author: SAP
 slug: unknown
-public: 'true'
+public: true
 description: |
   Business Entity Recognition helps you to detect and highlight any
   type of business entity in unstructured text. You can use the

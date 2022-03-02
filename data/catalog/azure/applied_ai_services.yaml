@@ -3,7 +3,7 @@ id: applied_ai_services
 name: Applied AI Services
 author: Azure
 slug: unknown
-public: 'true'
+public: true
 description: |
   A family of AI services that accelerate development of solutions for
   common business processes.

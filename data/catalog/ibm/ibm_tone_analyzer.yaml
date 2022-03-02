@@ -4,7 +4,7 @@ name: Tone Analyzer
 title: Tone Analyzer
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   People show various tones, such as joy, sadness, anger, and
   agreeableness, in daily communications. Such tones can impact the

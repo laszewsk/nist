@@ -4,7 +4,7 @@ name: Watson Knowledge Catalog
 title: Watson Knowledge Catalog
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Simplify data science and data compliance with IBM Watson Knowledge
   Catalog. Make your data easy to find and share while controlling

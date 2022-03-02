@@ -4,7 +4,7 @@ name: Amazon Forecast
 title: Amazon Forecast
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Forecast is a fully managed service that uses machine learning
   to deliver highly accurate forecasts.
 version: unkown

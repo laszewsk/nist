@@ -3,7 +3,7 @@ id: google_auto_ml_image
 name: AutoML Tabular
 author: Google
 slug: unknown
-public: 'true'
+public: true
 description: |
   AutoML uses machine learning to analyze the content of tabular data.
   You can use AutoML to train an ML model to use regression to find a

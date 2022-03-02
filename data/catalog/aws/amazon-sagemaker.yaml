@@ -4,7 +4,7 @@ name: Amazon SageMaker
 title: Amazon SageMaker
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon SageMaker is a fully-managed service that enables developers and
   data scientists to quickly and easily build, train, and deploy machine learning
   models at any scale. SageMaker removes all the barriers that typically slow down

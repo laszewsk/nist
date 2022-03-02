@@ -4,7 +4,7 @@ name: AWS Deep Learning AMIs
 title: AWS Deep Learning AMIs
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: The AWS Deep Learning AMIs provide machine learning practitioners and
   researchers with the infrastructure and tools to accelerate deep learning in the
   cloud, at any scale.

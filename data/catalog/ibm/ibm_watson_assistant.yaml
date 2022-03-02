@@ -4,7 +4,7 @@ name: Watson Assistant
 title: Watson Assistant
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Watson Assistant lets you build conversational interfaces into any
   application, device, or channel.  Add a natural language interface

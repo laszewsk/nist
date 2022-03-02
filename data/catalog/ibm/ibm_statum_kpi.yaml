@@ -4,7 +4,7 @@ name: Statum Kpi
 title: Statum Kpi
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Amberoon Statum KPI is a performance management solution that helps
   banks directly measure and manage their performance against peer

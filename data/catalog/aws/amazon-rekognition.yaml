@@ -4,7 +4,7 @@ name: Amazon Rekognition
 title: Amazon Rekognition
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Rekognition makes it easy to add image and video analysis to your
   applications using proven, highly scalable, deep learning technology that requires
   no machine learning expertise to use.

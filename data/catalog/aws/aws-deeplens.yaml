@@ -4,7 +4,7 @@ name: AWS DeepLens
 title: AWS DeepLens
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: AWS DeepLens helps put deep learning in the hands of developers, literally,
   with a fully programmable video camera, tutorials, code, and pre-trained models
   designed to expand deep learning skills.

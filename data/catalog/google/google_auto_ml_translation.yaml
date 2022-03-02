@@ -3,7 +3,7 @@ id: google_auto_ml_translation
 name: AutoML translation
 author: Google
 slug: unknown
-public: 'true'
+public: true
 description:
     Auto ML translation will automatically translate queries that are specific to a user-inputed domains. These are cutom translation models.
     version: unknown

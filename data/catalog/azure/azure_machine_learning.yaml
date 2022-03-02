@@ -3,7 +3,7 @@ id: azure_machine_learning
 name: Azure Machine Learning
 author: Azure
 slug: unknown
-public: 'true'
+public: true
 description: |
   Azure Machine Learning is a cloud service for accelerating and
   managing the machine learning project lifecycle.  Machine learning

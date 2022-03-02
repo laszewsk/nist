@@ -4,7 +4,7 @@ name: Amazon Translate
 title: Amazon Translate
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Translate is a neural machine translation service that delivers
   fast, high-quality, and affordable language translation.
 version: unkown

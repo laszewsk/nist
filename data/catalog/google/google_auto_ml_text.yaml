@@ -3,7 +3,7 @@ id: applied_ai_services
 name: AutoML text
 author: Google
 slug: unknown
-public: 'true'
+public: true
 description:
     Auto ML text uses machine learning to analyze the stucture and meaning of text. it extracts the information
     from authors and organizes the data. uses specific means of implementation such as classification, entity extraction, and segment analysis

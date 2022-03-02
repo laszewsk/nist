@@ -3,7 +3,7 @@ id: cognitive_search
 name: Cognitive Search
 author: Azure
 slug: unknown
-public: 'true'
+public: true
 description: |
   Azure Cognitive Search is the only cloud search service with
   built-in AI capabilities that enrich all types of information to

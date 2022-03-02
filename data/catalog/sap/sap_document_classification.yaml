@@ -4,7 +4,7 @@ name: SAP Document Classification
 title: SAP Business Technology Platform
 author: SAP
 slug: unknown
-public: 'true'
+public: true
 description: |
   Document Classification helps you to apply machine learning to
   automate the management and processing of large amounts of business

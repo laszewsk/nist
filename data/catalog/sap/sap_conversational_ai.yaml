@@ -4,7 +4,7 @@ name: SAP Conversational AI
 title: SAP Business Technology Platform
 author: SAP
 slug: unknown
-public: 'true'
+public: true
 description: |
   SAP Conversational AI is a collection of natural language processing
   services. As the conversational AI layer of SAP Business Technology

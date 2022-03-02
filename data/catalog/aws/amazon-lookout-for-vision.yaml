@@ -4,7 +4,7 @@ name: Amazon Lookout for Vision
 title: Amazon Lookout for Vision
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Lookout for Vision is a machine learning (ML) service that spots
   defects and anomalies in visual representations using computer vision (CV).
 version: unkown

@@ -4,7 +4,7 @@ name: TensorFlow on AWS
 title: TensorFlow on AWS
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: TensorFlow enables developers to quickly and easily get started with
   deep learning in the cloud. The framework has broad support in the industry and
   has become a popular choice for deep learning research and application development,

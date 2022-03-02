@@ -4,7 +4,7 @@ name: AWS DeepRacer
 title: AWS DeepRacer
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: AWS DeepRacer is a 1/18th scale race car which gives you an interesting
   and fun way to get started with reinforcement learning (RL).
 version: unkown

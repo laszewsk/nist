@@ -5,7 +5,7 @@ title: Oracle Cloud Infrastructure
 author: Oracle
 slug: unknown
 public: true
-description: |
+description:
   Oracle Digital Assistant is an AI service that offers prebuilt
   skills and templates to create conversational experiences for your
   business applications and customers through text, chat, and voice
@@ -15,10 +15,10 @@ description: |
   their own custom skills to automate the customer experiences.
 version: unknown
 license: unknown
-microservice: no
+microservice: 'no'
 protocol: TBD
 owner: Oracle
-modified:
+modified: 02/17/2022
 created: 02/17/2022
 documentation: https://docs.oracle.com/en/cloud/paas/digital-assistant/
 source: unknown

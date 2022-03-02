@@ -4,7 +4,7 @@ name: Text To Speech
 title: Text To Speech
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   The Text to Speech service converts written text to natural-sounding
   speech. The service streams the synthesized audio back with minimal

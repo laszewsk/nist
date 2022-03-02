@@ -4,7 +4,7 @@ name: Amazon Polly
 title: Amazon Polly
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: Amazon Polly is a service that turns text into lifelike speech. Polly
   lets you create applications that talk, enabling you to build entirely new categories
   of speech-enabled products. Polly is an Amazon artificial intelligence (AI) service

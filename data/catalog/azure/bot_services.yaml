@@ -3,7 +3,7 @@ id: bot_services
 name: Bot Services
 author: Azure
 slug: unknown
-public: 'true'
+public: true
 description: |
   Develop enterprise-grade conversational AI experiences while
   maintaining control of your data.  Build multilingual and multimodal

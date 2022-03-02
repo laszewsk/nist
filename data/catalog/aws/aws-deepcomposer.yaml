@@ -4,7 +4,7 @@ name: AWS DeepComposer
 title: AWS DeepComposer
 author: Amazon
 slug: unkown
-public: 'true'
+public: true
 description: "AWS DeepComposer is the world\u2019s first musical keyboard powered\
   \ by machine learning to enable developers of all skill levels to learn Generative\
   \ AI while creating original music outputs."

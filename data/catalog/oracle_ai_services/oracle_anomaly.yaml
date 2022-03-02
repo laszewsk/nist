@@ -3,7 +3,7 @@ name: Oracle Anomaly Detection
 title: Oracle Cloud Infrastructure
 author: Oracle
 slug: unknown
-public: 'true'
+public: true
 description: |
   Oracle Cloud Infrastructure (OCI) Anomaly Detection is an AI service
   that enables developers to more easily build business-specific

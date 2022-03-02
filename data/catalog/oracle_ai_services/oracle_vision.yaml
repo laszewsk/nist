@@ -4,7 +4,7 @@ name: Oracle Vision
 title: Oracle Cloud Infrastructure
 author: Oracle
 slug: unknown
-public: 'true'
+public: true
 description: |
   Oracle Cloud Infrastructure (OCI) Vision is an AI service that
   applies computer vision technology to analyze image-based

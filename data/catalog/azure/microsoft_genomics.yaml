@@ -3,7 +3,7 @@ id: microsoft_genomics
 name: Microsoft Genomics
 author: Azure
 slug: unknown
-public: 'true'
+public: true
 description: |
   Microsoft Genomics offers a cloud implementation of the
   Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK)

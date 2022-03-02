@@ -4,7 +4,7 @@ name: Ibm Match 360 With Watson
 title: Ibm Match 360 With Watson
 author: IBM
 slug: unkown
-public: 'true'
+public: true
 description: |
   Use IBM Match 360 with Watson to quickly build data pipelines for
   analytics and other data science use cases using master data.  Start
