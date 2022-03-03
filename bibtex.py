@@ -1,52 +1,77 @@
 from cloudmesh.common.util import readfile
 import yaml
-
+import calendar
 from pprint import pprint
 
-content = readfile("data/catalog/azure/bot_services.yaml")
+class converter:
+  def __init__(self, loc):
+    content = readfile(loc)
+    # print (content)
 
-print (content)
+    self.data = yaml.safe_load(content)
+    # pprint (data)
+    # careful of international spec for dates
+    self.day, self.month, self.year = self.data["modified"].split("-")
 
-data = yaml.safe_load(content)
-pprint (data)
-
-bibtex_entry = """
-@misc{{{label}}},
-  title={{{title}}},
-  name={{{name}}},
-  author={{{author}}},
-  howpubllished={{Web Page}},
-  month = {month},
-  year = {{{year}}},
-  url = {{{url}}}
-]
-"""
-# careful of international spec for dates
-day, month, year = data["modified"].split("-")
-import calendar
-
-data["label"] = "wrong"
-data["title"] = data["name"]
-data["year"] = year
-data["month"] = calendar.month_abbr[int(month)].lower()
-
-data["url"] = data["documentation"]
-if "http" not in data["url"]:
-    raise ValueError("url not found")
+    self.data["title"] = self.data["name"]
+    self.data["year"] = self.year
+    self.data["month"] = calendar.month_abbr[int(self.month)].lower()
+    self.data["id"]=self.data["title"].replace(" ", "-").lower()
+    self.data["url"] = self.data["documentation"]
+    if "http" not in self.data["url"]:
+        raise ValueError("url not found")
 
 
-print (bibtex_entry.format(**data))
+  def to_bibtex(self):
 
+    self.bibtex_entry = """
+    @misc{{{id}}},
+      title={{{title}}},
+      author={{{author}}},
+      howpublished={{Web Page}},
+      
+      ---
 
-markdown_entry = """
----
-author: {author}
-title:  {title}
----
+      description={{{description}}}
 
-## Description
+      ---
+      
+      month = {month},
+      year = {{{year}}},
+      url = {{{url}}},
+      tags={{{tags}}},
+      categories={{{categories}}}
+    ]
+    """
 
-{description}
-"""
+    return self.bibtex_entry.format(**self.data)
 
-print (markdown_entry.format(**data))
+  def to_md(self):
+
+    self.markdown_entry = """
+    ---
+    id: {id}
+    author: {author}
+    title:  {title}
+    ---
+
+    ## Description
+
+    {description}
+
+    ---
+    howpublished: {{Web Page}},
+    month: {month}
+    year: {year},
+    url: {url},
+    tags: {tags},
+    categories: {categories}
+    """
+
+    return self.markdown_entry.format(**self.data)
+
+if __name__=="__main__":
+  c=converter("D:\\Code\\nist\\github\\nist\\data\\catalog\\oracle_ai_services\\oracle_anomaly.yaml")
+  print(c.to_bibtex())
+  print("\n")
+  print(c.to_md())
