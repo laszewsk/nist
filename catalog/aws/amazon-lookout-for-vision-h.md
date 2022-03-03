@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-lookout-for-vision.yaml
 ---
 
+{{% pageinfo %}}
+Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV).
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV).

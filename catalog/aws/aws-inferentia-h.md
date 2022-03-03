@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/aws-inferentia.yaml
 ---
 
+{{% pageinfo %}}
+AWS Inferentia is a machine learning inference chip designed to deliver high performance at low cost. AWS Inferentia will support the TensorFlow, Apache MXNet, and PyTorch deep learning frameworks, as well as models that use the ONNX format.
+{{% /pageinfo %}}
+
 ## Description
 
 AWS Inferentia is a machine learning inference chip designed to deliver high performance at low cost. AWS Inferentia will support the TensorFlow, Apache MXNet, and PyTorch deep learning frameworks, as well as models that use the ONNX format.

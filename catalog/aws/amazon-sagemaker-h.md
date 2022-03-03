@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-sagemaker.yaml
 ---
 
+{{% pageinfo %}}
+Amazon SageMaker is a fully-managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. SageMaker removes all the barriers that typically slow down developers who want to use machine learning.
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon SageMaker is a fully-managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. SageMaker removes all the barriers that typically slow down developers who want to use machine learning.

@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-healthlake.yaml
 ---
 
+{{% pageinfo %}}
+Amazon HealthLake is a HIPAA-eligible service that healthcare providers, health insurance companies, and pharmaceutical companies can use to store, transform, query, and analyze large-scale health data.
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon HealthLake is a HIPAA-eligible service that healthcare providers, health insurance companies, and pharmaceutical companies can use to store, transform, query, and analyze large-scale health data.

@@ -12,6 +12,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/google/google_auto_ml_translation.yaml
 ---
 
+{{% pageinfo %}}
+Auto ML translation will automatically translate queries that are specific to a user-inputed domains. These are cutom translation models.
+{{% /pageinfo %}}
+
 ## Description
 
 Auto ML translation will automatically translate queries that are specific to a user-inputed domains. These are cutom translation models.

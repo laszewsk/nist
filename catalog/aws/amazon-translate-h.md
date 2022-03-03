@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-translate.yaml
 ---
 
+{{% pageinfo %}}
+Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.

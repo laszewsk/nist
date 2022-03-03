@@ -13,6 +13,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/google/google_auto_ml_text.yaml
 ---
 
+{{% pageinfo %}}
+Auto ML text uses machine learning to analyze the stucture and meaning of text. it extracts the information from authors and organizes the data. uses specific means of implementation such as classification, entity extraction, and segment analysis
+{{% /pageinfo %}}
+
 ## Description
 
 Auto ML text uses machine learning to analyze the stucture and meaning of text. it extracts the information from authors and organizes the data. uses specific means of implementation such as classification, entity extraction, and segment analysis

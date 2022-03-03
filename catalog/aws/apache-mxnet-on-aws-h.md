@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/apache-mxnet-on-aws.yaml
 ---
 
+{{% pageinfo %}}
+Apache MXNet on AWS is a fast and scalable training and inference framework with an easy-to-use, concise API for machine learning.
+{{% /pageinfo %}}
+
 ## Description
 
 Apache MXNet on AWS is a fast and scalable training and inference framework with an easy-to-use, concise API for machine learning.

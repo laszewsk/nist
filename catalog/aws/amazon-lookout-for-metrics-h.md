@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-lookout-for-metrics.yaml
 ---
 
+{{% pageinfo %}}
+Amazon Lookout for Metrics uses machine learning (ML) to automatically detect and diagnose anomalies (i.e. outliers from the norm) in business and operational data, such as a sudden dip in sales revenue or customer acquisition rates.
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon Lookout for Metrics uses machine learning (ML) to automatically detect and diagnose anomalies (i.e. outliers from the norm) in business and operational data, such as a sudden dip in sales revenue or customer acquisition rates.

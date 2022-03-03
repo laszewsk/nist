@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-monitron.yaml
 ---
 
+{{% pageinfo %}}
+Amazon Monitron is an end-to-end system that uses machine learning (ML) to detect abnormal behavior in industrial machinery, enabling you to implement predictive maintenance and reduce unplanned downtime.
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon Monitron is an end-to-end system that uses machine learning (ML) to detect abnormal behavior in industrial machinery, enabling you to implement predictive maintenance and reduce unplanned downtime.

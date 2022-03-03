@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/aws-deepcomposer.yaml
 ---
 
+{{% pageinfo %}}
+AWS DeepComposer is the world’s first musical keyboard powered by machine learning to enable developers of all skill levels to learn Generative AI while creating original music outputs.
+{{% /pageinfo %}}
+
 ## Description
 
 AWS DeepComposer is the world’s first musical keyboard powered by machine learning to enable developers of all skill levels to learn Generative AI while creating original music outputs.

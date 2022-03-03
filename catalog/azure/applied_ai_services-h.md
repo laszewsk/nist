@@ -11,6 +11,12 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/azure/applied_ai_services.yaml
 ---
 
+{{% pageinfo %}}
+A family of AI services that accelerate development of solutions for
+common business processes.
+
+{{% /pageinfo %}}
+
 ## Description
 
 A family of AI services that accelerate development of solutions for

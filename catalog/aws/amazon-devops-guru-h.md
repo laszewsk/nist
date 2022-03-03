@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-devops-guru.yaml
 ---
 
+{{% pageinfo %}}
+Amazon DevOps Guru is a Machine Learning (ML) powered service that makes it easy to improve an application’s operational performance and availability. DevOps Guru detects behaviors that deviate from normal operating patterns so you can identify operational issues long before they impact your customers.
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon DevOps Guru is a Machine Learning (ML) powered service that makes it easy to improve an application’s operational performance and availability. DevOps Guru detects behaviors that deviate from normal operating patterns so you can identify operational issues long before they impact your customers.

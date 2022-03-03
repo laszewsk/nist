@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/oracle_ai_services/oracle_speech.yaml
 ---
 
+{{% pageinfo %}}
+Oracle Cloud Infrastructure Speech is a new AI service that uses Automatic Speech Recognition (ASR) to convert speech to text. Built on the same AI models used for Oracle Digital Assistant, developers can use Oracle's time-tested acoustic and language models to provide highly accurate transcription for audio or video files across many languages.
+{{% /pageinfo %}}
+
 ## Description
 
 Oracle Cloud Infrastructure Speech is a new AI service that uses Automatic Speech Recognition (ASR) to convert speech to text. Built on the same AI models used for Oracle Digital Assistant, developers can use Oracle's time-tested acoustic and language models to provide highly accurate transcription for audio or video files across many languages.

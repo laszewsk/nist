@@ -11,6 +11,10 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-personalize.yaml
 ---
 
+{{% pageinfo %}}
+Amazon Personalize is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications.
+{{% /pageinfo %}}
+
 ## Description
 
 Amazon Personalize is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications.

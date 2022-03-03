@@ -12,6 +12,14 @@ draft: False
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/sap/sap_conversational_ai.yaml
 ---
 
+{{% pageinfo %}}
+SAP Conversational AI is a collection of natural language processing
+services. As the conversational AI layer of SAP Business Technology
+Platform, it enables users to build and monitor intelligent chatbots
+in one interface to automate tasks and workflows.
+
+{{% /pageinfo %}}
+
 ## Description
 
 SAP Conversational AI is a collection of natural language processing
