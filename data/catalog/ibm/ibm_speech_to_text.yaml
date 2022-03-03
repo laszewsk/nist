@@ -18,8 +18,8 @@ license: unkown
 microservice: 'no'
 protocol: TBD
 owner: IBM
-modified: '2'
-created: '2'
+modified: 17-02-2022
+created: 17-02-2022
 documentation: https://cloud.ibm.com/apidocs/speech-to-text
 source: unknown
 specification: unkown
