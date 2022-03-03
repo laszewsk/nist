@@ -1,7 +1,12 @@
----
-        author: IBM
-        title:  Statum Kpi
-        ---
+# Statum Kpi
+
+        * Author: IBM
+        * Version: unkown
+        * Modified: 17-02-2022
+        * Created: 17-02-2022
+        * <https://www.amberoon.com/amberoon-statum>
+        * Tags: cloud service, ai, artificial intelligence, software interface
+        * Categories: AI/ML
 
         ## Description
 
@@ -24,3 +29,12 @@ day. Daytime support responses will be done during standard business hours (M-F
 Support Locations: US and India
 
 Service Status Page: https://ibmbroker.amberoon.com/statumservicestatus
+
+
+        ## SLA
+
+        https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+        ## Data
+
+        The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

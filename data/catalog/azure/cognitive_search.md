@@ -1,7 +1,12 @@
----
-        author: Azure
-        title:  Cognitive Search
-        ---
+# Cognitive Search
+
+        * Author: Azure
+        * Version: unknown
+        * Modified: 22-02-2022
+        * Created: 22-02-2022
+        * <https://docs.microsoft.com/en-us/azure/search/>
+        * Tags: AI, Cognition, Search
+        * Categories: AI
 
         ## Description
 
@@ -17,3 +22,12 @@ uses advanced machine learning techniques to understand user intent
 and contextually rank the most relevant search results.  Spend more
 time innovating and less time maintaining a complex cloud search
 solution.
+
+
+        ## SLA
+
+        https://www.azure.cn/en-us/support/sla/search/v1_0/
+
+        ## Data
+
+        tbd

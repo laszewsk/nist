@@ -1,7 +1,12 @@
----
-        author: IBM
-        title:  Knowledge Studio
-        ---
+# Knowledge Studio
+
+        * Author: IBM
+        * Version: unkown
+        * Modified: 17-02-2022
+        * Created: 17-02-2022
+        * <https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro>
+        * Tags: cloud service, ai, artificial intelligence, software interface
+        * Categories: AI/ML
 
         ## Description
 
@@ -12,3 +17,12 @@ collaborative environment designed for both developers and domain
 experts, without needing to write code. Use the models in Watson
 Discovery, Watson Natural Language Understanding and Watson
 Explorer.
+
+
+        ## SLA
+
+        https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+        ## Data
+
+        The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

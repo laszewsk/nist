@@ -1,7 +1,12 @@
----
-        author: Alibaba
-        title:  Machine Translation
-        ---
+# Machine Translation
+
+        * Author: Alibaba
+        * Version: unknown
+        * Modified: 2020-12-22
+        * Created: 2020-12-22
+        * <https://www.alibabacloud.com/help/en/product/30396.htm>
+        * Tags: ML, Translation services
+        * Categories: ML
 
         ## Description
 
@@ -13,3 +18,12 @@ searches, product titles, product details, product comments, instant messaging, 
 Alibaba Translate helps resolve all language barriers for global websites and software.
 In addition to tiered discounts, buyers of resource packages now can invoke the
 system to translate 1 million characters free of charge each month.
+
+
+        ## SLA
+
+        https://www.alibabacloud.com/help/en/doc-detail/159763.html
+
+        ## Data
+
+        Alibaba's data usage policies can be found at https://www.alibabacloud.com/help/en/doc-detail/42425.html

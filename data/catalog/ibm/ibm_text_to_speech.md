@@ -1,7 +1,12 @@
----
-        author: IBM
-        title:  Text To Speech
-        ---
+# Text To Speech
+
+        * Author: IBM
+        * Version: unkown
+        * Modified: 17-02-2022
+        * Created: 17-02-2022
+        * <https://cloud.ibm.com/apidocs/text-to-speech>
+        * Tags: cloud service, ai, artificial intelligence, software interface
+        * Categories: AI/ML
 
         ## Description
 
@@ -14,3 +19,12 @@ voice-automated chatbots, as well as a variety of voice-driven and
 screenless applications, such as tools for the disabled or visually
 impaired, video narration and voice over, and educational and
 home-automation solutions.
+
+
+        ## SLA
+
+        https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+        ## Data
+
+        The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

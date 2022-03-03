@@ -1,7 +1,12 @@
----
-        author: IBM
-        title:  Watson Assistant
-        ---
+# Watson Assistant
+
+        * Author: IBM
+        * Version: unkown
+        * Modified: 17-02-2022
+        * Created: 17-02-2022
+        * <https://cloud.ibm.com/apidocs/assistant>
+        * Tags: cloud service, ai, artificial intelligence, software interface
+        * Categories: AI/ML
 
         ## Description
 
@@ -13,3 +18,12 @@ can integrate and communicate on any channel or device. Train Watson
 Conversation service through an easy-to-use web application,
 designed so you can quickly build natural conversation flows between
 your apps and users, and deploy scalable, cost effective solutions.
+
+
+        ## SLA
+
+        https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+        ## Data
+
+        The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

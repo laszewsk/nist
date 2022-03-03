@@ -1,7 +1,12 @@
----
-        author: IBM
-        title:  Communication Monitoring
-        ---
+# Communication Monitoring
+
+        * Author: IBM
+        * Version: unkown
+        * Modified: 17-02-2022
+        * Created: 17-02-2022
+        * <https://help.cognitiveview.com/hc/en-us/categories/360003768493-Cognitive-View-Platform-Documentation>
+        * Tags: cloud service, ai, artificial intelligence, software interface
+        * Categories: AI/ML
 
         ## Description
 
@@ -61,3 +66,12 @@ support@cognitiveview.com.
 A member of our team will respond immediately upon receipt. For
 further information please visit:
 https://help.cognitiveview.com/hc/en-us/articles/360053544894-Cognitive-View-Application-Support-Services.
+
+
+        ## SLA
+
+        https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+        ## Data
+
+        The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

@@ -1,8 +1,33 @@
 ---
+date: 2022-02-25
+title: Amazon Rekognition
+tags: 
+- AI
+- Machine Learning
+categories: 
+- AI
+linkTitle: MISSING
+description: Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.
 author: Amazon
-title:  Amazon Rekognition
+draft: False
 ---
 
 ## Description
 
 Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.
+
+## Version
+
+unkown
+
+## Documentation
+
+https://aws.amazon.com/rekognition
+
+## SLA
+
+https://aws.amazon.com/compute/sla/
+
+## Data
+
+User data is stored on Amazon servers under the associated AWS account and is protected under the AWS shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/

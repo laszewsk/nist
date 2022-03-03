@@ -1,7 +1,12 @@
----
-        author: IBM
-        title:  Speech To Text
-        ---
+# Speech To Text
+
+        * Author: IBM
+        * Version: unkown
+        * Modified: 17-02-2022
+        * Created: 17-02-2022
+        * <https://cloud.ibm.com/apidocs/speech-to-text>
+        * Tags: cloud service, ai, artificial intelligence, software interface
+        * Categories: AI/ML
 
         ## Description
 
@@ -12,3 +17,12 @@ signals to accurately transcribe human speech. It can be used in
 applications such as voice-automated chatbots, analytic tools for
 customer-service call centers, and multi-media transcription, among
 many others.
+
+
+        ## SLA
+
+        https://cloud.ibm.com/docs/overview?topic=overview-slas
+
+        ## Data
+
+        The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
