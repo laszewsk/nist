@@ -9,7 +9,8 @@ categories:
 - AI
 - Fast Api
 linkTitle: MISSING
-draft: False
+draft: False         
+github_url: https://github.com/laszewsk/nist/blob/main/catalog/google/google_vertex_ai.yaml
 ---
 
 ## Description
