@@ -187,6 +187,7 @@ url:
 """
 
 import yaml
+import textwrap
 
 data = []
 # remove empty lines
@@ -204,7 +205,7 @@ for i in range(len(data)):
         data[i]["id"] = data[i]["title"].replace(" ", "-").lower()
         data[i]["name"] = data[i]["title"]
         data[i].update(constants)
-
+        d = data[i]["description"]
     except:
         pass
 print(yaml.dump(data, indent=2))
