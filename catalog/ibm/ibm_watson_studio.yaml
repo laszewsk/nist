@@ -1,0 +1,35 @@
+---
+id: ibm_watson_studio
+name: Watson Studio
+title: Watson Studio
+author: IBM
+slug: unkown
+public: true
+description: |
+  Watson Studio democratizes data science and AI to drive innovation
+  in your business. With a suite of tools for all skill levels,
+  everyone can collaborate to prepare, analyze, and model data. You
+  can write Python or R code in notebooks, visually code on a
+  graphical canvas, or automatically build models.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: IBM
+modified: 17-02-2022
+created: 17-02-2022
+documentation: https://dataplatform.cloud.ibm.com/docs
+source: unknown
+specification: unkown
+tags:
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
+categories:
+  - AI/ML
+additional_metadata: unkown
+endpoint: unkown
+sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
+authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
+data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

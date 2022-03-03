@@ -1,0 +1,40 @@
+---
+id: ibm_tone_analyzer
+name: Tone Analyzer
+title: Tone Analyzer
+author: IBM
+slug: unkown
+public: true
+description: |
+  People show various tones, such as joy, sadness, anger, and
+  agreeableness, in daily communications. Such tones can impact the
+  effectiveness of communication in different contexts. Tone Analyzer
+  leverages cognitive linguistic analysis to identify a variety of
+  tones at both the sentence and document level.  This insight can
+  then used to refine and improve communications. It detects three
+  types of tones, including emotion (anger, disgust, fear, joy and
+  sadness), social propensities (openness, conscientiousness,
+  extroversion, agreeableness, and emotional range), and language
+  styles (analytical, confident and tentative) from text.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: IBM
+modified: 17-02-2022
+created: 17-02-2022
+documentation: https://cloud.ibm.com/apidocs/tone-analyzer
+source: unknown
+specification: unkown
+tags:
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
+categories:
+  - AI/ML
+additional_metadata: unkown
+endpoint: unkown
+sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
+authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
+data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

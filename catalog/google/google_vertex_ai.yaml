@@ -1,0 +1,30 @@
+---
+id: google_vertex_ai
+name: Vertex AI
+author: Google
+slug: unknown
+public: true
+description:
+  Google vertex AI is a pretrained api service that allows the user to depoly pretrained
+  ml models faster and more efficently
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Google
+modified: 22-03-2022
+created: 22-03-2022
+documentation: https://cloud.google.com/vertex-ai
+specification: unknown
+tags:
+  - AI
+  - Services
+  - ML models
+categories:
+  - AI
+  - Fast Api
+additional_metadata: unknown
+endpoint: unknown
+sla: https://cloud.google.com/vertex-ai/sla
+authors: Google
+data: tbd

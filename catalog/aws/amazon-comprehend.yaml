@@ -1,0 +1,31 @@
+---
+id: unkown
+name: Amazon Comprehend
+title: Amazon Comprehend
+author: Amazon
+slug: unkown
+public: true
+description: Amazon Comprehend is a natural language processing (NLP) service that
+  uses machine learning to find insights and relationships in text. No machine learning
+  experience required.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: Amazon
+modified: '2022-02-25'
+created: '2022-02-25'
+documentation: https://aws.amazon.com/comprehend
+source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
+specification: unkown
+tags:
+  - AI
+  - Machine Learning
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unkown
+sla: https://aws.amazon.com/compute/sla/
+authors: The Amazon team can be contacted through Amazon Support Center.
+data: User data is stored on Amazon servers under the associated AWS account and is
+  protected under the AWS shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/

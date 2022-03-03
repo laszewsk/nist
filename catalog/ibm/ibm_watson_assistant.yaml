@@ -1,0 +1,38 @@
+---
+id: ibm_watson_assitant
+name: Watson Assistant
+title: Watson Assistant
+author: IBM
+slug: unkown
+public: true
+description: |
+  Watson Assistant lets you build conversational interfaces into any
+  application, device, or channel.  Add a natural language interface
+  to your application to automate interactions with your end
+  users. Common applications include virtual agents and chat bots that
+  can integrate and communicate on any channel or device. Train Watson
+  Conversation service through an easy-to-use web application,
+  designed so you can quickly build natural conversation flows between
+  your apps and users, and deploy scalable, cost effective solutions.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: IBM
+modified: 17-02-2022
+created: 17-02-2022
+documentation: https://cloud.ibm.com/apidocs/assistant
+source: unknown
+specification: unkown
+tags:
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
+categories:
+  - AI/ML
+additional_metadata: unkown
+endpoint: unkown
+sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
+authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
+data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

@@ -1,0 +1,33 @@
+---
+id: unknown
+name: SAP Conversational AI
+title: SAP Business Technology Platform
+author: SAP
+slug: unknown
+public: true
+description: |
+  SAP Conversational AI is a collection of natural language processing
+  services. As the conversational AI layer of SAP Business Technology
+  Platform, it enables users to build and monitor intelligent chatbots
+  in one interface to automate tasks and workflows.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: SAP
+modified: '2022-02-25'
+created: '2022-02-25'
+documentation: https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/en-US
+source: unknown
+specification: unknown
+tags:
+  - AI
+  - chatbot
+  - NLP
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unknown
+sla: https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&search=Service%20Level%20Agreement
+data: SAP's policy on data usage and management can be read about on the Online Data
+  Agreement document https://www.sap.com/about/agreements/policies.html

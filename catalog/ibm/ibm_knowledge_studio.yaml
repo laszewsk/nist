@@ -1,0 +1,37 @@
+---
+id: ibm_knowledge_studio
+name: Knowledge Studio
+title: Knowledge Studio
+author: IBM
+slug: unkown
+public: true
+description: |
+  Teach Watson the language of your domain with custom machine
+  learning models that identify entities and relationships unique to
+  your industry in unstructured text. Build your models in a
+  collaborative environment designed for both developers and domain
+  experts, without needing to write code. Use the models in Watson
+  Discovery, Watson Natural Language Understanding and Watson
+  Explorer.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: IBM
+modified: 17-02-2022
+created: 17-02-2022
+documentation: https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro
+source: unknown
+specification: unkown
+tags:
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
+categories:
+  - AI/ML
+additional_metadata: unkown
+endpoint: unkown
+sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
+authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
+data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

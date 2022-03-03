@@ -1,0 +1,28 @@
+---
+id: applied_ai_services
+name: Applied AI Services
+author: Azure
+slug: unknown
+public: true
+description: |
+  A family of AI services that accelerate development of solutions for
+  common business processes.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Azure
+modified: 22-02-2022
+created: 22-02-2022
+documentation: https://docs.microsoft.com/en-us/azure/applied-ai-services/
+specification: unknown
+tags:
+  - AI
+  - Services
+categories:
+  - AI
+additional_metadata: unknown
+endpoint: unknown
+sla: https://azure.microsoft.com/en-us/support/legal/sla/azure-applied-ai-services/v1_0/
+authors: Azure
+data: tbd

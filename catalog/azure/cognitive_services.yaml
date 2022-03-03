@@ -1,0 +1,33 @@
+---
+id: cognitive_services
+name: Cognitive Services
+author: Azure
+slug: unknown
+public: true
+description:
+  Cognitive Services brings AI within reach of every developer and
+  data scientist.  With leading models, a variety of use cases can be
+  unlocked. All it takes is an API call to embed the ability to see, hear,
+  speak, search, understand, and accelerate advanced decision-making
+  into your apps.  Enable developers and data scientists of all skill
+  levels to easily add AI capabilities to their apps.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Azure
+modified: 22-02-2022
+created: 22-02-2022
+documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
+specification: unknown
+tags:
+  - AI
+  - Cognition
+  - Service
+categories:
+  - AI
+additional_metadata: unknown
+endpoint: unknown
+sla: https://www.azure.cn/en-us/support/sla/cognitive-services/
+authors: Azure
+data: tbd

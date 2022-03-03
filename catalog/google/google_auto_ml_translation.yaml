@@ -1,0 +1,28 @@
+---
+id: google_auto_ml_translation
+name: AutoML translation
+author: Google
+slug: unknown
+public: true
+description:
+  Auto ML translation will automatically translate queries that are specific to a user-inputed domains. These are cutom translation models.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Google
+modified: 22-03-2022
+created: 22-03-2022
+documentation: https://cloud.google.com/vertex-ai
+specification: unknown
+tags:
+  - AI
+  - text translation
+  - ML models
+categories:
+  - AI
+additional_metadata: unknown
+endpoint: unknown
+sla: https://cloud.google.com/vision/sla
+authors: Google
+data: tbd

@@ -1,0 +1,33 @@
+---
+id: unkown
+name: TensorFlow on AWS
+title: TensorFlow on AWS
+author: Amazon
+slug: unkown
+public: true
+description: TensorFlow enables developers to quickly and easily get started with
+  deep learning in the cloud. The framework has broad support in the industry and
+  has become a popular choice for deep learning research and application development,
+  particularly in areas such as computer vision, natural language understanding and
+  speech translation.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: Amazon
+modified: '2022-02-25'
+created: '2022-02-25'
+documentation: https://aws.amazon.com/tensorflow
+source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
+specification: unkown
+tags:
+  - AI
+  - Machine Learning
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unkown
+sla: https://aws.amazon.com/compute/sla/
+authors: The Amazon team can be contacted through Amazon Support Center.
+data: User data is stored on Amazon servers under the associated AWS account and is
+  protected under the AWS shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/

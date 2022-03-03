@@ -1,0 +1,32 @@
+---
+id: unkown
+name: AWS Inferentia
+title: AWS Inferentia
+author: Amazon
+slug: unkown
+public: true
+description: AWS Inferentia is a machine learning inference chip designed to deliver
+  high performance at low cost. AWS Inferentia will support the TensorFlow, Apache
+  MXNet, and PyTorch deep learning frameworks, as well as models that use the ONNX
+  format.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: Amazon
+modified: '2022-02-25'
+created: '2022-02-25'
+documentation: https://aws.amazon.com/machine-learning/inferentia
+source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
+specification: unkown
+tags:
+  - AI
+  - Machine Learning
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unkown
+sla: https://aws.amazon.com/compute/sla/
+authors: The Amazon team can be contacted through Amazon Support Center.
+data: User data is stored on Amazon servers under the associated AWS account and is
+  protected under the AWS shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/

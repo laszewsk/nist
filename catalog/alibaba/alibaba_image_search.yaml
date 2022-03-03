@@ -1,0 +1,31 @@
+---
+id: unknown
+name: Image Search
+title: Image Search
+author: Alibaba
+slug: unknown
+public: true
+description: |
+  Image Search allows your users to search by image based on image similarities.
+  Image Search uses deep learning and machine vision to capture characteristics of
+  images and then search for images based on the captured information.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Alibaba
+modified: '2020-03-01'
+created: '2018-03-01'
+documentation: https://www.alibabacloud.com/help/en/doc-detail/66567.htm
+source: unknown
+specification: unknown
+tags:
+  - AI
+  - Image search
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unknown
+sla: https://www.alibabacloud.com/help/en/doc-detail/85212.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX
+data: Alibaba's data usage policies can be found at
+      https://www.alibabacloud.com/help/en/doc-detail/42425.html

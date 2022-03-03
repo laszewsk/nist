@@ -1,0 +1,36 @@
+---
+id: unknown
+name: Machine Translation
+title: Machine Translation
+author: Alibaba
+slug: unknown
+public: true
+description: |
+  Levering its leading natural language processing technology and massive e-commerce
+  data, Alibaba Translate has developed a deep neural network translation (NMT)
+  system based on the attention mechanism. At present, the system has been widely
+  used in various e-commerce-linked services for basic data fields, including SEO,
+  searches, product titles, product details, product comments, instant messaging, and risk control.
+  Alibaba Translate helps resolve all language barriers for global websites and software.
+  In addition to tiered discounts, buyers of resource packages now can invoke the
+  system to translate 1 million characters free of charge each month.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Alibaba
+modified: '2020-12-22'
+created: '2020-12-22'
+documentation: https://www.alibabacloud.com/help/en/product/30396.htm
+source: unknown
+specification: unknown
+tags:
+  - ML
+  - Translation services
+categories:
+  - ML
+additional_metadata: unkown
+endpoint: unknown
+sla: https://www.alibabacloud.com/help/en/doc-detail/159763.html
+data: Alibaba's data usage policies can be found at
+      https://www.alibabacloud.com/help/en/doc-detail/42425.html

@@ -1,0 +1,34 @@
+---
+id: unknown
+name: Machine Learning Platform for AI
+title: Machine Learning Platform for AI
+author: Alibaba
+slug: unknown
+public: true
+description:
+  Machine Learning Platform for AI provides end-to-end machine learning services,
+  including data processing, feature engineering, model training, model prediction,
+  and model evaluation. Machine Learning Platform for AI combines all of these
+  services to make AI more accessible than ever.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Alibaba
+modified: '2021-07-29'
+created: '2020-07-22'
+documentation: https://www.alibabacloud.com/help/en/product/30347.htm
+source: unknown
+specification: unknown
+tags:
+  - AI
+  - ML
+  - Data processing
+categories:
+  - AI
+  - ML
+additional_metadata: unkown
+endpoint: unknown
+sla: https://www.alibabacloud.com/help/en/doc-detail/155117.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX
+data: Alibaba's data usage policies can be found at
+      https://www.alibabacloud.com/help/en/doc-detail/42425.html

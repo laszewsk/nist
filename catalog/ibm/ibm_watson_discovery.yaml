@@ -1,0 +1,35 @@
+---
+id: ibm_watson_discovery
+name: Watson Discovery
+title: Watson Discovery
+author: IBM
+slug: unkown
+public: true
+description: |
+  Add a cognitive search and content analytics engine to applications
+  to identify patterns, trends and actionable insights that drive
+  better decision-making.  Securely unify structured and unstructured
+  data with pre-enriched content, and use a simplified query language
+  to eliminate the need for manual filtering of results.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: IBM
+modified: 17-02-2022
+created: 17-02-2022
+documentation: https://cloud.ibm.com/apidocs/discovery-data
+source: unknown
+specification: unkown
+tags:
+  - cloud service
+  - ai
+  - artificial intelligence
+  - software interface
+categories:
+  - AI/ML
+additional_metadata: unkown
+endpoint: unkown
+sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
+authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
+data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/

@@ -1,0 +1,31 @@
+---
+id: bot_services
+name: Bot Services
+author: Azure
+slug: unknown
+public: true
+description: |
+  Develop enterprise-grade conversational AI experiences while
+  maintaining control of your data.  Build multilingual and multimodal
+  bots for any scenario from sales to customer support and employee
+  productivity.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Azure
+modified: 22-02-2022
+created: 22-02-2022
+documentation: https://docs.microsoft.com/en-in/azure/bot-service/?view=azure-bot-service-4.0
+specification: unknown
+tags:
+  - AI
+  - BOT
+  - Service
+categories:
+  - AI
+additional_metadata: unknown
+endpoint: unknown
+sla: https://azure.microsoft.com/en-in/support/legal/sla/bot-services/v1_0/
+authors: Azure
+data: tbd

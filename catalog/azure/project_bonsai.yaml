@@ -1,0 +1,29 @@
+---
+id: project_bonsai
+name: Project Bonsai
+author: Azure
+slug: unknown
+public: true
+description: |
+  Low-code AI development platform for intelligent control systems
+  Speed the creation of AI-powered automation to improve production
+  efficiency and reduce downtime—without requiring data science.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Azure
+modified: 22-02-2022
+created: 22-02-2022
+documentation: https://docs.microsoft.com/en-us/bonsai/
+specification: unknown
+tags:
+  - AI
+  - Low-code AI
+categories:
+  - AI
+additional_metadata: unknown
+endpoint: unknown
+sla: https://docs.microsoft.com/en-us/bonsai/resources/terms-of-use
+authors: Azure
+data: tbd

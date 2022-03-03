@@ -1,0 +1,32 @@
+---
+id: unkown
+name: Amazon SageMaker Ground Truth
+title: Amazon SageMaker Ground Truth
+author: Amazon
+slug: unkown
+public: true
+description: Amazon SageMaker Ground Truth helps you build highly accurate training
+  datasets for machine learning quickly. SageMaker Ground Truth offers easy access
+  to public and private human labelers and provides them with built-in workflows and
+  interfaces for common labeling tasks.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: Amazon
+modified: '2022-02-25'
+created: '2022-02-25'
+documentation: https://aws.amazon.com/sagemaker/groundtruth
+source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
+specification: unkown
+tags:
+  - AI
+  - Machine Learning
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unkown
+sla: https://aws.amazon.com/compute/sla/
+authors: The Amazon team can be contacted through Amazon Support Center.
+data: User data is stored on Amazon servers under the associated AWS account and is
+  protected under the AWS shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/

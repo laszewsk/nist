@@ -1,0 +1,30 @@
+---
+id: applied_ai_services
+name: AutoML text
+author: Google
+slug: unknown
+public: true
+description:
+  Auto ML text uses machine learning to analyze the stucture and meaning of text. it extracts the information
+  from authors and organizes the data. uses specific means of implementation such as classification, entity extraction, and segment analysis
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Google
+modified: 22-03-2022
+created: 22-03-2022
+documentation: https://cloud.google.com/vertex-ai
+specification: unknown
+tags:
+  - AI
+  - Services
+  - ML models
+  - text analysis
+categories:
+  - AI
+additional_metadata: unknown
+endpoint: unknown
+sla: https://cloud.google.com/vision/sla
+authors: Google
+data: tbd

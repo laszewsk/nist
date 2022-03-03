@@ -1,0 +1,44 @@
+---
+id: oracle_digital_assistant
+name: Oracle Digital Assistant
+title: Oracle Cloud Infrastructure
+author: Oracle
+slug: unknown
+public: true
+description:
+  Oracle Digital Assistant is an AI service that offers prebuilt
+  skills and templates to create conversational experiences for your
+  business applications and customers through text, chat, and voice
+  interfaces. Application owners can easily get started with prebuilt
+  skills to provide chatbot functionality to business
+  users. Developers can build on the library of templates and create
+  their own custom skills to automate the customer experiences.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Oracle
+modified: 17-02-2022
+created: 17-02-2022
+documentation: https://docs.oracle.com/en/cloud/paas/digital-assistant/
+source: unknown
+specification: unknown
+tags:
+  - "AI"
+  - "text service"
+  - "chat service"
+  - "voice service"
+  - "chatbot"
+  - "deep learning"
+  - "natural language processing"
+  - "artificial intelligence"
+  - "app dev"
+categories:
+  - "AI"
+additional_metadata: unknown
+endpoint: unknown
+sla: https://www.oracle.com/cloud/sla/
+authors: The Oracle team can be contacted through a user's individual My Oracle Support portal.
+data: |
+  Oracle's policy on data usage and management can be read about on the Online Data Agreement document
+  https://www.oracle.com/us/corporate/contracts/data-cloud-online-agreement-3087248.pdf

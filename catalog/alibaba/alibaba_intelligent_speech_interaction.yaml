@@ -1,0 +1,35 @@
+---
+id: unknown
+name: Intelligent Speech Interaction
+title: Intelligent Speech Interaction
+author: Alibaba
+slug: unknown
+public: true
+description: |
+  Intelligent Speech Interaction is developed based on state-of-the-art technologies
+  such as speech recognition, speech synthesis, and natural language understanding.
+  Enterprises can integrate Intelligent Speech Interaction into their products to
+  enable them to listen, understand, and converse with users, providing users with
+  an immersive human-computer interaction experience. Intelligent Speech Interaction
+  is currently available in Mandarin Chinese, Cantonese Chinese, English, Japanese,
+  Korean, French and Indonesian, and please stay tuned for other languages.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: Alibaba
+modified: '2022-02-09'
+created: '2020-06-18'
+documentation: https://www.alibabacloud.com/help/en/doc-detail/158269.html
+source: unknown
+specification: unknown
+tags:
+  - AI
+  - speech recognition
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unknown
+sla: https://www.alibabacloud.com/help/en/doc-detail/152143.html?spm=a2c63.p38356.0.0.41fa62f9pCAHjX
+data: Alibaba's data usage policies can be found at
+      https://www.alibabacloud.com/help/en/doc-detail/42425.html

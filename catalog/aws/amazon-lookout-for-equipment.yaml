@@ -1,0 +1,32 @@
+---
+id: unkown
+name: Amazon Lookout for Equipment
+title: Amazon Lookout for Equipment
+author: Amazon
+slug: unkown
+public: true
+description: Amazon Lookout for Equipment analyzes the data from the sensors on your
+  equipment (e.g. pressure in a generator, flow rate of a compressor, revolutions
+  per minute of fans), to automatically train a machine learning model based on
+  just your data, for your equipment \u2013 with no ML expertise required.
+version: unkown
+license: unkown
+microservice: 'no'
+protocol: TBD
+owner: Amazon
+modified: '2022-02-25'
+created: '2022-02-25'
+documentation: https://aws.amazon.com/lookout-for-equipment
+source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
+specification: unkown
+tags:
+  - AI
+  - Machine Learning
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unkown
+sla: https://aws.amazon.com/compute/sla/
+authors: The Amazon team can be contacted through Amazon Support Center.
+data: User data is stored on Amazon servers under the associated AWS account and is
+  protected under the AWS shared responsibility model as detailed here https://aws.amazon.com/compliance/shared-responsibility-model/

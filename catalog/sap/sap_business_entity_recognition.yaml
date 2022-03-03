@@ -1,0 +1,35 @@
+---
+id: unknown
+name: SAP Business Entity Recognition
+title: SAP Business Technology Platform
+author: SAP
+slug: unknown
+public: true
+description: |
+  Business Entity Recognition helps you to detect and highlight any
+  type of business entity in unstructured text. You can use the
+  service, for example, to automatically extract the context from
+  incoming emails with invoice inquiries, automating recurring tasks
+  associated with answering queries about the status and payment of
+  invoices. Business Entity Recognition is part of the SAP AI Business
+  Services portfolio.
+version: unknown
+license: unknown
+microservice: 'no'
+protocol: TBD
+owner: SAP
+modified: '2022-02-25'
+created: '2022-02-25'
+documentation: https://help.sap.com/viewer/product/Business_Entity_Recognition/SHIP/en-US
+source: unknown
+specification: unknown
+tags:
+  - AI
+  - text extraction
+categories:
+  - AI
+additional_metadata: unkown
+endpoint: unknown
+sla: https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?sort=latest_desc&search=Service%20Level%20Agreement
+data: SAP's policy on data usage and management can be read about on the Online Data
+  Agreement document https://www.sap.com/about/agreements/policies.html
