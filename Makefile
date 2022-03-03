@@ -11,6 +11,10 @@ endef
 
 all: install
 
+publish:
+	cms catalog export hugo md --source=data/catalog
+	cp -r data/catalog ../cloudmesh-catalog/www/content/en/docs
+
 install:
 	pip install -e .
 
