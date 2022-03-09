@@ -8,6 +8,15 @@ cloudmesh-installer get catalog
 cms help
 ```
 
+## Work
+
+do a git pull first
+
+```bash
+cd cm
+cd nist; git pull ; cd ..
+cd cloudmesh-catalog; git pull ; cd ..
+```
 
 ## Modfy entries
 
