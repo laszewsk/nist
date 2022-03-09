@@ -14,7 +14,7 @@ github_url: https://github.com/laszewsk/nist/blob/main/catalog/azure/project_bon
 {{% pageinfo %}}
 Low-code AI development platform for intelligent control systems
 Speed the creation of AI-powered automation to improve production
-efficiency and reduce downtime—without requiring data science.
+efficiency and reduce downtime without requiring data science.
 
 {{% /pageinfo %}}
 
@@ -22,7 +22,7 @@ efficiency and reduce downtime—without requiring data science.
 
 Low-code AI development platform for intelligent control systems
 Speed the creation of AI-powered automation to improve production
-efficiency and reduce downtime—without requiring data science.
+efficiency and reduce downtime without requiring data science.
 
 
 ## Version
