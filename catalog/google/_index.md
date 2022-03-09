@@ -3,12 +3,12 @@ title: "Google"
 linkTitle: "Google"
 weight: 1
 description: >
-  TBD
+  A list of AI services offered by Google
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/google/_index.md
 ---
 
 {{% pageinfo %}}
-TBD  
+  A list of AI services offered by Google
 {{% /pageinfo %}}
 
 

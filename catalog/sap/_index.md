@@ -1,14 +1,14 @@
 ---
-title: "Oracle"
-linkTitle: "Oracle"
+title: "SAP"
+linkTitle: "SAP"
 weight: 1
 description: >
-  TBD
+    A list of AI services offered by SAP
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/sap/_index.md
 ---
 
 {{% pageinfo %}}
-TBD  
+  A list of AI services offered by SAP
 {{% /pageinfo %}}
 
 

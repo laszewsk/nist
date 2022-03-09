@@ -3,12 +3,12 @@ title: "IBM"
 linkTitle: "IBM"
 weight: 1
 description: >
-  TBD
+  A list of AI services offered by IBM
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/ibm/_index.md
 ---
 
 {{% pageinfo %}}
-TBD  
+  A list of AI services offered by IBM
 {{% /pageinfo %}}
 
 

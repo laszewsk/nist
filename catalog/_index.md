@@ -3,7 +3,7 @@ title: "AI Services"
 linkTitle: "AI Services"
 weight: 1
 description: >
-  TBD
+  A catalog of cloud AI service
 github_url: https://github.com/laszewsk/nist/blob/main/catalog/_index.md
 ---
 
