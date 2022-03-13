@@ -14,8 +14,8 @@ license: unkown
 microservice: 'no'
 protocol: TBD
 owner: Amazon
-modified: '2022-02-25'
-created: '2022-02-25'
+modified: 2022-03-08
+created: 2022-03-08
 documentation: https://aws.amazon.com/sagemaker
 source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
 specification: unkown
