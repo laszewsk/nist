@@ -1,5 +1,5 @@
 ---
-date: 22-03-2022
+date: 2022-03-08
 title: AutoML image
 tags: 
 - AI

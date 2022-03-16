@@ -1,5 +1,5 @@
 ---
-date: 2022-02-19
+date: 2022-03-08
 title: Oracle Vision
 tags: 
 - AI

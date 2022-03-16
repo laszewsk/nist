@@ -2,8 +2,8 @@
 
 * Author: Amazon
 * Version: unkown
-* Modified: 2022-02-25
-* Created: 2022-02-25
+* Modified: 2022-03-08
+* Created: 2022-03-08
 * <https://aws.amazon.com/translate>
 * Tags: AI, Machine Learning
 * Categories: AI

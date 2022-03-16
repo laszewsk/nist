@@ -2,8 +2,8 @@
 
 * Author: Google
 * Version: unknown
-* Modified: 22-03-2022
-* Created: 22-03-2022
+* Modified: 2022-03-08
+* Created: 2022-03-08
 * <https://cloud.google.com/vertex-ai>
 * Tags: AI, text translation, ML models
 * Categories: AI

@@ -2,8 +2,8 @@
 
         * Author: IBM
         * Version: unkown
-        * Modified: 17-02-2022
-        * Created: 17-02-2022
+        * Modified: 2022-03-08
+        * Created: 2022-03-08
         * <https://help.cognitiveview.com/hc/en-us/categories/360003768493-Cognitive-View-Platform-Documentation>
         * Tags: cloud service, ai, artificial intelligence, software interface
         * Categories: AI/ML
@@ -16,14 +16,14 @@ and customer experience. In addition, it provides the necessary
 tools to create a customer-centric culture and reduce operational
 risk.
 
-Voice & Text Analytics
+Voice and Text Analytics
 
 
 Supports a variety of data sources, including text and voice
 
 Contact center analytics
 
-Open API & Integration with hundreds of 3rd party systems, including CRM
+Open API and Integration with hundreds of 3rd party systems, including CRM
 
 
 Customer Experience Analytics
@@ -31,7 +31,7 @@ Customer Experience Analytics
 
 Improve revenue by uncovering hidden insights from customer conversations
 
-Sentiment & tone analysis
+Sentiment and tone analysis
 
 Predict customer concern & churn
 

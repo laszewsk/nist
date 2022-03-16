@@ -1,5 +1,5 @@
 ---
-date: 2022-02-25
+date: 2022-03-08
 title: Amazon Augmented AI
 tags: 
 - AI
@@ -12,12 +12,12 @@ github_url: https://github.com/laszewsk/nist/blob/main/catalog/aws/amazon-augmen
 ---
 
 {{% pageinfo %}}
-ABC Amazon Augmented AI (Amazon A2I) is a machine learning service which makes it easy to build the workflows required for human review.
+Amazon Augmented AI (Amazon A2I) is a machine learning service which makes it easy to build the workflows required for human review.
 {{% /pageinfo %}}
 
 ## Description
 
-ABC Amazon Augmented AI (Amazon A2I) is a machine learning service which makes it easy to build the workflows required for human review.
+Amazon Augmented AI (Amazon A2I) is a machine learning service which makes it easy to build the workflows required for human review.
 
 ## Version
 
