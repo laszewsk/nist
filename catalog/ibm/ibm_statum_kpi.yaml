@@ -3,7 +3,7 @@ id: ibm_statum_kpi
 name: Statum Kpi
 title: Statum Kpi
 author: IBM
-slug: unkown
+slug: unknown
 public: true
 description: |
   Amberoon Statum KPI is a performance management solution that helps
@@ -14,19 +14,8 @@ description: |
   institutions.  Statum KPI leverages advances in AI, data engineering
   and security to create a system of insight to support key
   operational decisions.
-
-  Support Information
-
-  Customers can submit issues directly to our support team via email: statumkpi_help@Amberoon.com
-  (24/7/365). You can expect a response to all help desk tickets within one (1) business
-  day. Daytime support responses will be done during standard business hours (M-F
-  8AM - 5PM US PST), with the exclusion of Federal and Bank Holidays.
-
-  Support Locations: US and India
-
-  Service Status Page: https://ibmbroker.amberoon.com/statumservicestatus
-version: unkown
-license: unkown
+version: unknown
+license: unknown
 microservice: 'no'
 protocol: TBD
 owner: IBM
@@ -34,7 +23,7 @@ modified: 2022-03-08
 created: 2022-03-08
 documentation: https://www.amberoon.com/amberoon-statum
 source: unknown
-specification: unkown
+specification: unknown
 tags:
   - cloud service
   - ai
@@ -42,8 +31,10 @@ tags:
   - software interface
 categories:
   - AI/ML
-additional_metadata: unkown
-endpoint: unkown
+additional_metadata: unknown
+endpoint: unknown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
 authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
 data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+contributors:
+  - ishandandekar2002@gmail.com
