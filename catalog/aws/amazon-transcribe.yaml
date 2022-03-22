@@ -14,6 +14,7 @@ protocol: TBD
 owner: Amazon
 modified: 2022-03-08
 created: 2022-03-08
+contributed: Harsh Singh (harsh220902@gmail.com)
 documentation: https://aws.amazon.com/transcribe
 source: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
 specification: unkown
