@@ -2,8 +2,8 @@
 
         * Author: Oracle
         * Version: unknown
-        * Modified: 2022-02-19
-        * Created: 2022-02-19
+        * Modified: 2022-03-08
+        * Created: 2022-03-08
         * <https://docs.oracle.com/en-us/iaas/vision/vision/using/home.htm>
         * Tags: AI, Vision, Deep Learning, Image Recognition, Text Recognition
         * Categories: AI, Deep Learning

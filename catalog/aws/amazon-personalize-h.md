@@ -1,5 +1,5 @@
 ---
-date: 2022-02-25
+date: 2022-03-08
 title: Amazon Personalize
 tags: 
 - AI

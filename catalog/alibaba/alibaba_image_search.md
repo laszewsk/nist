@@ -2,7 +2,7 @@
 
         * Author: Alibaba
         * Version: unknown
-        * Modified: 2020-03-01
+        * Modified: 2022-03-08
         * Created: 2018-03-01
         * <https://www.alibabacloud.com/help/en/doc-detail/66567.htm>
         * Tags: AI, Image search

@@ -2,8 +2,8 @@
 
         * Author: Azure
         * Version: unknown
-        * Modified: 22-02-2022
-        * Created: 22-02-2022
+        * Modified: 2022-03-08
+        * Created: 2022-03-08
         * <https://docs.microsoft.com/en-us/azure/machine-learning/>
         * Tags: AI, ML
         * Categories: AI

@@ -3,13 +3,13 @@ id: ibm_watson_openscale
 name: Watson Openscale
 title: Watson Openscale
 author: IBM
-slug: unkown
+slug: unknown
 public: true
 description: |
   IBM Watson OpenScale tracks and measures outcomes from AI throughout
-  it''s lifecycle, and adapts and governs AI in changing business situations
-version: unkown
-license: unkown
+  it's lifecycle, and adapts and governs AI in changing business situations
+version: unknown
+license: unknown
 microservice: 'no'
 protocol: TBD
 owner: IBM
@@ -17,7 +17,7 @@ modified: 2022-03-08
 created: 2022-03-08
 documentation: https://cloud.ibm.com/apidocs/ai-openscale
 source: unknown
-specification: unkown
+specification: unknown
 tags:
   - cloud service
   - ai
@@ -25,8 +25,10 @@ tags:
   - software interface
 categories:
   - AI/ML
-additional_metadata: unkown
-endpoint: unkown
+additional_metadata: unknown
+endpoint: unknown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
 authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
 data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+contributors:
+  - ishandandekar2002@gmail.com

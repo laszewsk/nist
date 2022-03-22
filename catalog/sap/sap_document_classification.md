@@ -2,8 +2,8 @@
 
         * Author: SAP
         * Version: unknown
-        * Modified: 2022-02-25
-        * Created: 2022-02-25
+        * Modified: 2022-03-08
+        * Created: 2022-03-08
         * <https://help.sap.com/viewer/product/DOCUMENT_CLASSIFICATION/SHIP/en-US>
         * Tags: AI, document classification
         * Categories: AI

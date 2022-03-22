@@ -2,8 +2,8 @@
 
         * Author: IBM
         * Version: unkown
-        * Modified: 17-02-2022
-        * Created: 17-02-2022
+        * Modified: 2022-03-08
+        * Created: 2022-03-08
         * <https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro>
         * Tags: cloud service, ai, artificial intelligence, software interface
         * Categories: AI/ML

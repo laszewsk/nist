@@ -1,5 +1,5 @@
 ---
-date: 2022-02-22
+date: 2022-03-08
 title: Oracle Anomaly Detection
 tags: 
 - AI

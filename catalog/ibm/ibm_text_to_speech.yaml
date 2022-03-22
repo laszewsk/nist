@@ -3,7 +3,7 @@ id: ibm_text_to_speech
 name: Text To Speech
 title: Text To Speech
 author: IBM
-slug: unkown
+slug: unknown
 public: true
 description: |
   The Text to Speech service converts written text to natural-sounding
@@ -15,8 +15,8 @@ description: |
   screenless applications, such as tools for the disabled or visually
   impaired, video narration and voice over, and educational and
   home-automation solutions.
-version: unkown
-license: unkown
+version: unknown
+license: unknown
 microservice: 'no'
 protocol: TBD
 owner: IBM
@@ -24,7 +24,7 @@ modified: 2022-03-08
 created: 2022-03-08
 documentation: https://cloud.ibm.com/apidocs/text-to-speech
 source: unknown
-specification: unkown
+specification: unknown
 tags:
   - cloud service
   - ai
@@ -32,8 +32,10 @@ tags:
   - software interface
 categories:
   - AI/ML
-additional_metadata: unkown
-endpoint: unkown
+additional_metadata: unknown
+endpoint: unknown
 sla: https://cloud.ibm.com/docs/overview?topic=overview-slas
 authors: 'IBM Cloud can be contacted through the following channel: https://www.ibm.com/cloud/support'
 data: The IBM Watson data usage and privacy policy is described here:https://www.ibm.com/watson/data-privacy/
+contributors:
+  - ishandandekar2002@gmail.com
