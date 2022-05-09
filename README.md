@@ -34,9 +34,9 @@ git push
 ## Collaborators
 
 
-@5ham5h33r
-@AarnoStormborn
-@Amaaan09
-@ishandandekar
-@mysoladi
-@yash-chauhan-1234
+* @5ham5h33r
+* @AarnoStormborn
+* @Amaaan09
+* @ishandandekar
+* @mysoladi
+* @yash-chauhan-1234
