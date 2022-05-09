@@ -31,3 +31,12 @@ git commit -m "describe what you changed" catalog/aws/aws-deeplens.yaml
 git push
 ``
 
+## Collaborators
+
+
+@5ham5h33r
+@AarnoStormborn
+@Amaaan09
+@ishandandekar
+@mysoladi
+@yash-chauhan-1234
